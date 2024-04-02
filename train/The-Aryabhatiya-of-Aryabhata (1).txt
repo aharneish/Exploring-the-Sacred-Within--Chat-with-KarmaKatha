@@ -1,0 +1,3779 @@
+THE ARYABHATIYA • 
+of 
+ARYABHATA • 
+An Ancient Indian Work on Mathematics and Astronomy 
+TRANSLATED WITH NOTES BY 
+WALTER EUGENE CLARK 
+Professor of Sanskrit in HaNJard Uni1Jersi.ty 
+THE UNIVERSITY OF CHICAGO PRESS CHICAGO, ILLINOIS 
+Downloaded from https://www.holybooks.comTHE UNIVERSITY OF CHICAGO PRESS 
+CHICAGO, ILLINOIS 
+THE BAKER & TAYLOR COMPANY 
+NEW YORK 
+THE CAMBRIDGE UNIVERSITY PRESS 
+LONDON 
+THE M.ARUZEX·KABUSHIKI·.KAISHA 
+TOKYO, OSAKA, KYOTO, PU.KUO.KA, SENDAI 
+THE COMMERCIAL PRESS, LIMITED 
+S!BNGilAI 
+Downloaded from https://www.holybooks.com"ebPYiHGHT 1930 BY THE UNIVERSITY OF CHICAGO 
+A.LL RIGHTS RESERVED. PUBLISHED JULY 1930 
+COMPOSED AND PRINTED DY THE UNIVERSITY OF CHICAGO PH:ESS 
+CHICAGO,. ILLINOIS,. U~S-A .. 
+Downloaded from https://www.holybooks.comPREFACE 
+In 1874 Kern published at Leiden a text called the 
+)f.ryabhatiya which clain1s to be the work of ... ~rya­
+bhata, and which gives (III, 10) the date of the birth 
+of the author as 476 A.D. If these claims can be sub­stantiated, 
+and if the \vhole work is genuine, the 
+text is the earliest preserved Indian mathematical and 
+astronomical text bearing the name of an individual author, the earliest 
+Indian text to deal specifically 
+vvi.th mathematics, and the earliest preserved astro­nomical text from the 
+third or scientific period of 
+Indian astronomy. The only other text which might dispute this 
+last claim is the S-aryasiddhanta (trans­
+lated with elaborate notes by Burgess and v\7hitney 
+in the sixth volmne of the Journal of the A..rnerican 
+Oriental Society). The old Sfiryasiddhanta undoubt­edly preceded 
+... lryabhata,, but the abstracts from it 
+given early in the sixth century by V arahamiliira in 
+his Pancasiddhantd.,;a show that the preserved text 
+has undergone considerable revision and may be later 
+than Aryabhata. Of the old Paulisa and Romaka 
+Siddhantas, and of the transitional Vasi?tha Si­
+ddhanta, nothing has been preseryed except the short 
+abstracts given by Varahamihira. · The names of sev­eral astronomers who preceded 
+~~ryabhata, or who were his 
+contemporari~s, are known, but nothing has been preserved from 
+their writings except a few brief fragments. 
+The Aryabha(iya, therefore, is of the greatest im-
+v 
+Downloaded from https://www.holybooks.comvi PREFACE 
+portance in the history of Indian mathematics and 
+astronomy. The second section, which deals with mathematics (the 
+GaJJ,itapada), has been translated 
+by Rodet in the Journal asiatique (1879), I, 393-
+434, and by Kaye in the Journal of the Asiatic Society 
+of Bengal, 1908, pages 111-41. Of the rest of the work no translation 
+has appeared, and only a few of the 
+stanzas have been discussed. The aim of this work is to give a complete translation of 
+the Aryabhafi,ya with references 
+to some of the most important parallel passages which 
+may be of assistance for further study. 
+The edition of Kern II¥Lkes no pretense of giving a really critical 
+text of the Aryabhafiya. It gives merely 
+the text which the sixteenth-century commentator Paramesvara 
+had before him. There are several un­certainties about this text. Especially noteworthy is 
+the considerable gap after IV, 44, which is discussed 
+by Kern (pp. v-vi). The names of other commenta­tors have been noticed 
+by Bibhutibhusan Datta in 
+the Bulletin of the Calcutta Mathematical Society, 
+XVIII (1927), 12. All available manuscripts of the 
+text should be consulted, all the other commentators should be studied, 
+and a careful comparison of the 
+Aryabhafi,ya with the abstracts from the old si­ddhantas 
+given by Varahamihira, with the Suryasi­
+ddhanta, with the Si[fyadh'ivrddhida of Lalla, and with 
+the Brahmasphutasiddhanta and the Kha?J,r/,akhadyaka 
+of Brahmagupta should be mad.e. All the later quota­tions from 
+Aryabhata, especially those made by the 
+commentators on Brahmagupta and Bhaskara, should 
+be collected and verified. Some of those noted by 
+Colebrooke do not seem to fit the published Arya-
+Downloaded from https://www.holybooks.comPREFACE vii 
+bhafiya. If so, were they based on a lost work of 
+Aryabhata, on the work of another Aryabhata, or 
+were they based on later texts composed by followers of 
+Aryabhata rather than on a work by .Aryabhata 
+himself? Especially valuable would be a careful study 
+of Prthiidakasvamin or Caturvedacarya, the eleventh­
+century commentator on Brahmagupta, who, to judge from 
+Sudhakara's use of him in his edition of the 
+Brahmasphutasiddhanta, frequently disagrees with 
+Brahmagupta and upholds Aryabhata against Brah­
+magupta's criticisms. 
+The present translation, with its brief notes, makes no pretense 
+at completeness. It is a prelimi­
+nary study based on inadequate material. Of several passages no translation 
+has been given or only a ten­
+tative translation has been suggested. A year's work 
+in India with unpublished manuscript material and 
+the help of competent pundits would be required for 
+the production of an adequate translation. I have 
+thought it better to publish the material as it is rather 
+than to postpone publication for an indefinite period. 
+The present translation will have served its purpose 
+if it succeeds in attracting the attention of Indian 
+scholars to the problem, arousing criticism, and en­couraging 
+them to make available more adequate 
+manuscript material. There 
+has been much discussion as to whether the 
+name of the author sJ;ould be spelled Aryabhata or 
+Aryabhatta. 1 Bhata means "hireling," "mercenary," 
+1 See especially Journal of the Royal Asiatic Society, 1865, pp. 392-93; 
+Journal asiatique (1880), II, 473-81; Sudhakara Dvivedi, 
+Gat1,akatarangit1,t, p. 2. 
+Downloaded from https://www.holybooks.comviii PREFACE 
+"warrior," and bhatta means "learned man," "schol­
+ar." Aryabhatta is the spelling which would natural­ly be expected. However, all the metrical evidence seems to favor the spelling with one 
+t. It is claimed by some 
+that the metrical evidence is inclusive, that 
+bhata has been substituted for bhat(a for purely metrical reasons, and does not prove 
+that .A.rya­
+bhata is the correct spelling. It is pointed out that 
+Kern gives the name of the commentator whom he edited as 
+Paramad.Isvara. The name occurs in this form in a stanza 
+at the beginning of the text and in another 
+at the end, but in the prose colophons at 
+the ends of the first three sections the name is given as Paramesvara, and this doubtless is 
+the correct form. However, until more definite historical or 
+m,etrical 
+evidence favoring the spelling Aryabhatta is produced I prefer to keep the form 
+Aryabh,a ta. 
+The Aryabha{iya is divided into four sections which contain 
+in all only 123 stanzas. It is not a com­plete and detailed working manual 
+of mathematics 
+and astronomy. It seems rather to be a brief descrip­tive work intended to supplement matters and proc­esses which were generally known and agreed upon, to give only the most distinctive features 
+of .A.rya­
+bhata' sown system. JVIany commonplaces and many 
+simple processes are taken for granted. For instance, there are 
+no rules to indicate the method of calculat­ing the 
+aharga1J,a and of finding the mean places of the planets. 
+But rules are given f~r calculating the true places from 
+the mean places by applying certain cor­rections, although even here there is 
+no statement of 
+Downloaded from https://www.holybooks.comPREFACE IX 
+the method by which the corrections themselves are to be calculated. 
+It is a descriptive summary rather 
+than a full working manual like the later kara?J,a­
+granthas or the Suryasiddhiinta in its present form. 
+It is questionable whether .A.ryabhata himself com­posed another treatise, a 
+kara?J,agrantha which might 
+serve directly as a basis for practical calculation, or whether his methods were confined to oral 
+tradition 
+handed down in a school. Brahmagupta
+1 implies knowledge of two works by 
+.A.ryabhata, one giving three hundred savana days in 
+a yuga more than the other, one beginning the yuga 
+at sunrise, the other at midnight. He does not seem to 
+treat these as works of two different Aryabhatas. 
+This is corroborated by Paflcasiddhantika, XV, 20: 
+".A.ryabhata maintains that the beginning of the day 
+is to be reckoned from midnight at Lanka; and the 
+same teacher [sa eva] again says that the day begins from sunrise 
+at Lanka." Brahmagupta, however, names only 
+the Dasagitika and the Aryfifltasata as the 
+works of .A.ryabhata, and these constitute our Arya­
+bhafi,ya. But the word audayikatantra of Brahma­sphutasiddhanta, 
+XI, 21 and the words audayika and 
+ardharatrika of XI, 13-14 seem to imply that Brahma­
+gupta is distinguishing between two works of one 
+.A.ryabhata. The published Aryabhafiya (I, 2) begins 
+the yuga at sunrise. The other work may not have been named or criticized 
+by Brahmagupta because of 
+the fact that it follo.;-ed orthodox tradition. Alberuni refers 
+to two .A.ryabhatas. His later 
+1 Brahmasphutasiddhiinta, XI, 5 and 13-14. 
+Downloaded from https://www.holybooks.comX PREFACE 
+.Aryabhata ( of Kusumapura) cannot be the later 
+.Aryabhata who was the author of the M ahiisiddhiinta. 
+The many quotations given by Alberuni prove con­clusively 
+that his second .Aryabhata was identical with the author 
+of our .A.ryabhatiya (of Kusumapura 
+as stated at II, 1). Either there was a still earlier 
+.Aryabhata or Alberuni mistakenly treats the author 
+of our .A.ryabhatiya as two persons. If this author really composed two works which represented two slightly different points 
+of view it is easy to explain Alberuni' s mistake.
+1 
+The published text begins with 13 stanzas, 10 of .. 
+which give in a peculiar alphabetical notation and in a very condensed form the most important numerical elements 
+of Aryabha~a's system of astronomy. In 
+ordinary language or in numerical words the material would have occupied 
+at least four times as many stanzas. This section is named 
+Dasagitikasutra in the concluding stanza 
+of the section. This final stanza, which is a sort 
+of colophon; the first stanza, which is an invocation and which states the name 
+of the author; and a 
+paribhii~ii stanza, which explains the peculiar alphabetical notation which is to be em­ployed in the following 
+10 stanzas, are not counted. I 
+see nothing suspicious in the discrepancy as Kaye 
+does. There is no more reason for questioning the authenticity 
+of the paribha~ii stanza than for ques­tioning 
+that of the invocation and colophon. Kaye • 
+1 For a. discussion of the whole problem of the two or three Aryar bbatas 
+see Kaye, Bibliotheca mathematica, X, 289, and Bibhutibhusan 
+Datta, BuUetin of the Calcutta M athf!lm.aticaJ, Society, XVII (1926), 59. 
+Downloaded from https://www.holybooks.comPREFACE xi 
+would like to eliminate it since it seems to furnish evidence for 
+Aryabhata's knowledge of place-value. Nothing is gained 
+by doing so since Lalla gives in 
+numerical words the most important numerical ele­ments of 
+Aryabhata without change, and even with­
+out this paribhti?ti stanza the rationale of the alpha­betical notation 
+in general could be worked out and 
+just as satisfactory evidence of place-value furnished. Further, Brahmagupta 
+(Brahmasphutasiddhanta, XI, 
+8) names the Dasagitika as the work of Aryabhata, 
+gives direct quotations (XI, 5; I, 12 and XI, 4; XI, 
+17) of stanzas 1, 3, and 4 of our Dasagitika, and XI, 
+15 (although corrupt) almost certainly contains a quotation of stanza 5 
+of our Dasagitika. Other stanzas are clearly ref erred 
+to but without direct quotations. Most 
+of the DasagUika as we have it can be proved to be earlier 
+than Brahmagupta (628 A.D.). 
+The second section in 33 stanzas deals with mathematics. 
+The third section in 25 stanzas is called 
+Kalakriya, or "The Reckoning of Time." The 
+fourth section in 50 stanzas is called Gola, or "The 
+Sphere." Together they contain 108 stanzas. 
+The Brahmasputasiddhiinta of Brahmagupta was composed in 
+628 A.D., just 129 years after the Arya­
+bhat"iya, if we accept 499 A.D., the date given in III, 
+10, as being actually the date of composition of that 
+work. The eleventh chapter of the Brahmasphuta­
+siddhanta, which is ~alled "Tantraparik~a," and is devoted to severe criticism 
+of previous works on 
+astronomy, is chiefly devoted to criticism of Arya­bhata. 
+In this chapter, and in other parts of his work, 
+Downloaded from https://www.holybooks.comxii PREFACE 
+Brahmagupta refers to Aryabhata some sixty times. Most 
+of these passages contain very general criticism 
+of Aryabhata as departing from smrti or being igno­
+rant of astronomy, but for some 30 stanzas it can be shown 
+that the identical stanzas or stanzas of iden­tical content were known 
+to Brahmagupta and ascribed to 
+Aryabhata. In XI, 8 Brahmagupta names the 
+Arya?tasata as the work of .Aryabhata, and XI, 
+43, janaty ekam api yato naryabhato garJ,itakalago­
+lanam, seems to refer to the three sections of our 
+Ary~tasata. These three sections contain exactly 
+108 stanzas. No stanza from the section on mathe­matics has been quoted or criticized 
+by Brahma­
+gupta, but it is hazardous to deduce from that, as Kaye 
+does,1 that this section on mathematics is spurious and is a much later addition. 
+2 To satisfy the conditions demanded 
+by Brahmagupta's name A..rya­
+~tasata there must have been in the work of Arya­
+bhata known to him exactly 33 other stanzas forming a more primitive and less developed mathematics, or these 33 other stanzas must have been astronomical in character, either forming a separate chapter or scattered through the present third and fourth sec­tions. This seems to be most unlikely. I doubt the validity 
+of Kaye's contention that the GarJ,itapada was later 
+than Brahmagupta. His suggestion that it is by 
+the later Aryabhata who was the author of the 
+M ahasiddhanta (published in the "Benares Sanskrit ,., 
+1 Op. cit., X, 291-92. 
+2 For criticism of Kaye see Bibhutibhusan Datta, op. cit., 
+XVIII (1927), 5. 
+Downloaded from https://www.holybooks.comPREFACE xiii 
+Series" and to be ascribed to the tenth century or even later) is impossible, as a comparison 
+of the two texts would have shown. I feel justified in assuming 
+that the Aryabhafi,ya 
+on the whole is genuine. It is, of course, possible that 
+at a later period some few stanzas may have been changed in wording or even supplanted 
+by other stanzas. Noteworthy 
+is I, 4, of which the true reading 
+bhulJ,, as preserved in a quotation of Brahmagupta, has been changed 
+by Paramesvara or by some pre­ceding commentator to 
+bham in order to eliminate 
+.Aryabhata' s theory of the rotation of the Earth. 
+Brahmagupta criticizes some astronomical mat­
+ters in which .Aryabhata is wrong or in regard to which 
+.Aryabhata's method differs from his own, but his bitterest and most frequent criticisms are directed against points 
+in which .Aryabhata was an innovator 
+and differed from smrti or tradition. Such criticism would 
+not arise in regard to mathematical matters 
+which had nothing to do with theological tradition. 
+The silence of Brahmagupta here may merely indicate 
+that he found nothing to criticize or thought criticism unnecessary. Noteworthy is 
+the fact that Brahma­
+gupta does not give rules for the volume of a pyramid _. 
+and for the volume of a sphere, which are both given incorrectly 
+by Aryabhata (II, 6-7). This is as likely 
+to prove ignorance of the true values on Brahma­
+gupta' s part as laten~s of the rules of Aryabhata. 
+What other rules of the Ga'f},itapada could be open to 
+adverse criticism? On the positive side may be pointed 
+out the very close correspondence in termi-
+Downloaded from https://www.holybooks.comxiv PREFACE 
+nology and expression between the fuller text of 
+Brahmagupta, XVIII, 3-5 and the more enigmatical text of 
+Aryabhafi,ya, II, 32-33, in their statements of 
+the famous Indian method (kuttaka) of solving inde­terminate equations of the first degree. 
+It seems prob­able to me 
+that Brahmagupta had before him these two stanzas 
+in their present form. It must be left to the mathematicians to decide which 
+of the two rules 
+is earlier. The only serious internal discrepancy which I have been able to discover 
+in the .if ryabhafi,ya is the follow­ing. Indian astronomy, 
+in general, maintains that the 
+Earth is stationary and that the heavenly bodies revolve about it, 
+but there is evidence in the Arya­
+bhafiya itself and in the accounts of Aryabhata given 
+by later writers to prove that Aryabhata maintained 
+that the Earth, which is s\ituated in the center of 
+space, revolves on its axis, and that the asterisms are stationary. 
+Later writers attack him bitterly on this point. 
+Even most of his own followers, notably Lalla, refused to follow him 
+in this matter and reverted to 
+the common Indian tradition. Stanza IV, 9, in spite 
+of Paramesvara, must be interpreted as maintaining 
+that the asterisms are stationary and that the Earth 
+revolves. And yet the very next stanza (IV, 10) seems to describe a stationary 
+Earth around which the asterisms revolve. Quotations 
+by Bhattotpala, the Va­
+sanavarttika, and the Marici i:q.c:licate that this stanza was known in its present form from the eleventh cen­
+tury on. Is it capable of some different interpreta­tion? 
+Is it intended merely as a statement of the 
+Downloaded from https://www.holybooks.comPREFACE xv 
+popular view? Has its wording been changed as has been done 
+·with I, 4? I see at present no satisfactory solution 
+of the problem. Colebrooke
+1 gives caturvirhsaty arhsais crtkram 
+ubhayato gacchet as a quotation by Munisva.ra from the 
+Arya?tasata of Arya.bhata. This would indicate a knowledge of a libration 
+of the equinoxes. No such statement is found in our 
+Aryii?tasata. The quotation should be verified in 
+the unpublished text in order to determine whether Colebrooke 
+was mistaken or whether 
+we are faced by a real discrepancy. The 
+words are not found in the part of the lv1arici which has already been published 
+in the Pandit. 
+The follovv'ing problem also needs elucidation. Al-
+though Brahmagupta (XI, 43-44) 
+janaty ekam api yato naryabhato ga]).itakalagolanam I 
+na maya proktani tatal). prthak prthag dii~al).any e~am II 
+aryabhatadii~al).anam samkhya vakturit na sakyate yasmat I 
+tasmad ayam uddeso buddhimatanyani yojyani 11 
+sums up his criticism of Aryabhata in the severest possible way, 
+yet at the beginning of his KharJ,rJ,a­
+khadyaka, a karaJJ,agrantha which has recently been edited 
+by Babua Misra J yotishacharyya (University 
+of Calcutta, 1925), we find the statement vak?yami 
+kharJ,<J,akhadyakam acaryaryabhatatulyaphalam. It is curious 
+that Brahmagupta in his KharJ,r/,akhadyaka 
+should use such respect£ ul language and should follow 
+the authority of an author who was damned so un­mercifully 
+by him in tlfe Tantrapar~k?fi of his Brahma­sphutasiddhanta. 
+Moreover, the elements of the Kha1J,-
+1 Miscellaneous Essays, II, 378. 
+Downloaded from https://www.holybooks.comxvi PREFACE 
+g,akhadyaka seem to differ much from those of the 
+Aryabhafiya. 1 Is this to be taken as an indication 
+that Brahmagupta here is following an older and a dif­
+ferent Aryabhata? If so the Brahmasphutasiddhanta 
+gives no clear indication of the fact. Or is he fol­lowing 
+another work by the same Aryabhata? Ac­cording 
+to Dik~it, 2 the Kharp:J,akhadyaka agrees in all essentials 
+with the old form of the Suryasiddhanta 
+rather than with the Brahmasphufasiddhanta. Just as 
+Brahmagupta composed two different· works so 
+.Aryabhata may have composed two works which represented two different 
+points of view. The second work 
+may have been cast in a traditional mold, may 
+have been based on the old Si7ryasiddhanta, or have 
+formed a commentary upon it. 
+The M ahasiddhanta of another .Aryabhata who lived 
+in the tenth century or later declares (XIII, 14): 
+vrddharyabhataproktat siddhantad yan mahakalat I 
+pathair gatam ucchedani vise~itarn tan maya svoktya II 
+But this M ahasiddhanta differs in so many particulars from 
+the Aryabhafiya that it is difficult to believe that 
+the author of the Aryabha(iya can be the one referred 
+to as V:rddharyabhata unless he had composed an­
+other work which differed in many particulars from 
+the Aryabhafi,ya. The matter needs careful investiga­tion.3 
+1 Cf. Pancasiddhantika, p. xx, and Bulletin of the Calcutta Mathe­
+matical Society, XVII (1926), 69. 
+2 As reported by Thibaut, Astronom,:e, Astrologie und M athematik, 
+pp. 55, 59. 
+3 See Bulletin of the Calcutta Mathematical Society, XVII (1926), 
+66-67, for a brief discussion. 
+Downloaded from https://www.holybooks.comPREFACE xvii 
+This monograph is based upon work done with me 
+at the University of Chicago some five years ago by 
+Baidyanath Sastri for the degree of A.lVI. So much 
+additional material has been ~dded, so many changes 
+have been made, and so many of the views expressed 
+would be unacceptable to him that I have not felt 
+justified in placing his name, too, upon the title-page 
+as joint-author and thereby making him responsible 
+for many things of which he might not approve. 
+HARVARD UNIVERSITY 
+April, 1929 
+While readin-g the final page-proof I learned of 
+the publication by Prabodh Chandra Sengupta of a 
+translation of the Aryabhat,iya in the Journal of the 
+Department of Letters (Calcutta University), XVI 
+-(1927). Unfortunately it has not been possible to 
+make use of it in the present publication. 
+April, 1930 
+Downloaded from https://www.holybooks.comDownloaded from https://www.holybooks.comTABLE OF CONTENTS 
+LIST OF ABBREVIATIONS . XXVll 
+I. DASAGiTIKA OR THE TEN GiTI STANZAS 1 
+A. Invocation . 1 
+B. System of Expressing Numbers by Letters of 
+Alphabet . 2 
+1. Revolutions of Sun, J\foon, Earth, and Planets 
+ma yuga . 9 
+2. Revolutions of Apsis of Moon, Conjunctions of 
+Planets, and Node of Moon in a yuga; Time 
+and Place from vVbich Revolutions Are To 
+Be Calculated 9 
+3. Number of Manus in a kalpa; Number of yugas 
+in Period of a Manu; Part of kalpa Elapsed up 
+to Bharata Battle 12 
+4. Divisions of Circle; Circumference of Sky and 
+Orbits of Planets in yojanas; Earth Moves One 
+kalii in a prii'IJ,a; Orbit of Sun One-sixtieth 
+That of Asterisms 13 
+5. Length of yojana; Diameters of Earth, Sun, 
+Moon, Meru, and Planets; Number of Years 
+ma yuga . 15 
+6. Greatest Declination of Ecliptic; Greatest Deviation 
+of Moon and Planets from Ecliptic; 
+Measure of a nr . 16 
+7. Positions of Ascending Nodes of Planets, and 
+of Apsides of Sun and Planets . 16 
+8-9. Dimensions of Epicycles of Apsides and Con­
+junctions of Pl.1D.ets; Circumference of Earth-
+Wind . 18 
+10. Table of Sine-Differences 19 
+C. Colophon . 20 
+XlX 
+Downloaded from https://www.holybooks.comXX TABLE OF CONTENTS 
+II. GA~'l:TAPA.DA OR MATHEMATICS . 21 
+1. Invocation 21 
+2. Names and Values of Classes of Numbers Increas-ing 
+by Powers of Ten 21 
+3. Definitions of Square (varga) and Cube (ghana) 21 
+4. Square Root . 22 5. Cube 
+Root 24 6. Area of Triangle; Volume of Pyramid 26 
+7. Area of Circle; Volume of Sphere ·. 27 
+8. Area of Trapezium; Length of Perpendiculars from Intersection of Diagonals to Parallel Sides 
+27 
+9. Area of Any Plane Figure; Chord of One-sixth Cir-cumference 
+Equal to Radius 27 
+10. Relation of Circumference of Circle to Diameter 28 
+11. Method of Constructing Sines by Forming Tri-angles and Quadrilaterals 
+in Quadrant of Circle . 28 
+12. Calculation of Table of Sine-Differences from 
+First One . 29 
+13. Construction of Circles, Triangles, and Quadri­laterals; Determination of Horizontal 
+and Per-pendicular 30 
+14. Radius of khavrtta (or svavrtta); Hypotenuse of Right-Angle Triangle Formed 
+by Gnomon and 
+Shadow 31 
+15-16. Shadow Problems . 31-2 17. Hypotenuse 
+of Right-Angle Triangle; Relation of Half-Chord to Segments of Diameter Which Bisects Chord . 34 
+18. Calculation of sampatasaras When Two Circles Intersect . 34 19-20. Arithmetical Progression . 
+35-6 
+21. Sum of Series Formed by Taking Sums of Terms 
+of an Arithmetical Progressi<J-11 . 37 22. Sums of Series Formed 
+by Taking Squares and 
+Cubes of Terms of an Arithmetical Progression . 37 
+Downloaded from https://www.holybooks.comTABLE OF CONTENTS xxi 
+23. Product of Two Factors Half the Difference be­
+tween Square of Their Sum and Sum of Their Squares 
+38 
+24. To Find Two Factors When Product and Differ-ence 
+Are Known . 38 25. 
+Interest 38 
+26. Rule of Three (Proportion) . 39 
+27. Fractions . 40 
+28. Inverse Method . 40 
+29. To Find Sum of Several Numbers \Yuen Results Obtained by Subtracting Each Number from Their Sum Are Known . 
+40 
+30. To Find Value of Unknown When Two Equal Quantities Consist 
+of Knowns and Similar Un-knowns 
+41 
+31. To Calculate Their Past and Future Conjunctions from Distance between Two Planets . 
+41 
+32-33. Indeterminate Equations of First Degree 
+(kuttaka) . 43 
+III. .KALAKRIYA OR THE RECKONING OF Tn.IE . 51 
+1-2. Divisions of Time; Divisions of Circle Corre-spond . 
+51 
+3. Conjunctions and vyafipatas of Two Planets in a 
+yuga 51 
+4. Number of Revolutions of Epicycles of Planets; Years 
+of Jupiter . 51 
+5. Definition of Solar Year, Lunar Month, Civil Day, and Sidereal Day . 
+.- 52 
+6. Intercalary Months and Omitted Lunar. Days . 52-3 
+7-8. Year of Men, Fathers, and Gods; yuga of All 
+the Planets; Day of Brahman . 53 
+9. Utsarpir.J,'i, avasarpirJ,'i, sw;ama, and dU??ama as 
+Divisions of yuga , . 53 
+10. Date of Writing of Aryabhatiya; Age of Author at 
+Time. M 
+Downloaded from https://www.holybooks.comxxii TABLE OF CONTENTS 
+11. Yuga, Year, Month, and Day Began at First of 
+Caitra; Endless Time Measured by Movements of 
+Planets and Asterisms 55 
+12. Planets Move with Equal Speed; Time in Which They Traverse Distances Equal to Orbit 
+of Aster-isms and Circumference 
+of Sky . 55 
+13. Periods of Revolution Differ because Orbits Differ 
+in Size . 56 
+14. For Same Reason Signs, Degrees, and Minutes Differ 
+in Length . 56 
+15. Order in Which Orbits of Planets Are Arranged (beneath the Asterisms) around 
+Earth as Center 56 
+16. Planets as "Lords of Days" (of Week) 56 
+17. Planets Move with Their Mean Motion on Orbits and Eccentric Circles Eastward from Apsis and Westward from Conjunction 
+57 
+18-19. Eccentric Circle Equal in Size to Orbit; Its Center Distant from Center 
+of Earth by Radius 
+of Epicycle 58 
+20. Movement of Planet on Epicycle; When ahead of 
+and When behind Its Mean Position . 58 
+21. Movement of Epicycles; Mean Planet (on Its 
+Orbit) at Center of Epicycle 59 
+22-24. Calculation of True Places of Planets from Mean Places . 
+60 
+25. Calculation of True Distance between Planet and Earth . 
+61 
+IV. GOLA OR THE SPHERE 63 
+1. Zodiacal Signs in Northern and Southern Halves 
+of Ecliptic; Even Deviation of Ecliptic from Equator 
+63 
+2. Sun, Nodes of Moon and Planets, and Earth's Shadow Move along 
+Eclipti~ . 63 
+3. Moon, Jupiter, Mars, and Saturn Cross Ecliptic 
+at Their Nodes; Venus and Mercury at Their Conjunctions . 
+63 
+Downloaded from https://www.holybooks.comTABLE OF CONTENTS xxiii 4. Distance from Sun 
+at Which 1\foon and Planets Become Visible . 
+63-4 
+5. Sun illumines One Half of Earth, Planets, and 
+Asterisms; Other Half Dark 64 
+6-7. Spherical Earth, Surrounded by Orbits of 
+Planets and by Asterisms, Situated in Center of 
+Space; Consists of Earth, Water, Fire, and Air . 64 
+8. Radius of Earth Increases and Decreases by a 
+yojana during Day and Night of Brahman 64 
+9. At Equator Stationary Asterisms Seem To Move Straight Westward; Simile 
+of Moving Boat and 
+Objects on Shore . 64 
+10. Asterisms and Planets, Driven by Provector Wind, 
+J\'1ove Straight Westward at Equator-
+Hence Rising and Setting 66 
+11-12. Mount Meru and Vaq.aviimukha (North and South Poles); Gods 
+and Demons Think the Others beneath 
+Them 68 
+13. Four Cities on Equator a Quadrant Apart; Sun­rise 
+at First Is Midday, Sunset-1\'.Iidnight at 
+~~- I ~ 
+14. Lanka (on Equator) 90° from Poles; Ujjain 22½0 
+North of Lanka . 68 
+15. From Level Place Half of Stellar Sphere minus 
+Radius of Earth Is Visible; Other Half plus Radius 
+of Earth Is Cut Off by Earth . . 68-9 16. 
+At Meru and Vaq.avamukha Northern and South­ern Halves 
+of Stellar Sphere Visible Moving from Left 
+to Right or Vice Versa. 69 
+17. At Poles the Sun, after It Rises, Visible for Half­
+y ear; on Moon the Sun Visible for Half a Lunar 
+Month. 69 
+18. Definition of Prime Vertical, Meridian, and 
+Horizon ' 69 
+19. East and West Hour-Circle Passing through Pole~ 
+( unmarpJ,ala) . 69 
+Downloaded from https://www.holybooks.comxxiv TABLE OF CONTENTS 
+20. Prime Vertical, Meridian, and Perpendicular from Zenith to Nadir Intersect at Place Where Observer Is . 
+70 
+21. Vertical Circle Passing through Planet and Place Where Observer Is 
+(drnmarJ,c/,ala); Vertical Circle Passing through 
+N onagesimal Point (drkkf;epa-
+ma?J,c/,ala) . 70 
+22. Construction of Wooden Globe Caused To Re­volve 
+So as To Keep Pace with Revolutions of Heavenly Bodies 
+70 
+23. Heavenly Bodies Depicted on This; Equinoctial Sine (Sine 
+of Latitude) Is Base; Sine of Co­latitude 
+(sahku at Midday of Equinoctial Day) Is 
+koti (Perpendicular to Base) . 70 
+24. Radius of Day-Circle 71 
+25. Right Ascension of Signs of Zodiac 71 26. 
+Earth-Sine Which Measures Increase and De-crease of 
+Day and Night 71 
+27. Oblique Ascension of Signs of Zodiac . . . 72 
+28. Sanku of Sun (Sine of Altitude on Vertical Circle Passing through Sun) 
+at Any Given Time 72 
+29. Base of sanku (Distance from Rising and Setting Line) . 
+73 
+,30. Amplitude of Sun (agra) 73 
+31. Sine of Altitude of Sun When Crossing Prime Vertical 
+74 32. 
+Midday sanku and Shadow. 74 33. 
+Sine of Ecliptic Zenith-Distance (drkk~epajya) 74 34. 
+Sine of Ecliptic Altitude (drggatijya); Parallax 75 35-36. 
+Drkkarman (akl}a and ayana) 76-7 
+37. Moon Causes Eclipse of Sun; Shadow of Earth 
+Causes Eclipse of Moon . 78 
+38. Time at Which Eclipses Occur . 78 
+39. Length of Shadow of Earth ~ . 78 
+40. Diameter of Earth's Shadow in Orbit of Moon 79 
+41. Sthityardha (Half of Time from First to Last Contact) . 
+· 79 
+Downloaded from https://www.holybooks.comTABLE OF CONTENTS 
+42. Yimardardha (Half of Time of Total Obscuration) 
+43. Part of l\Ioon \Vhich Is Not Eclipsed . XXV 
+79 
+79 
+44. Amount of Obscuration at Any Given Time . 
+45. Yalana. . 79-80 
+80 
+81 46. Colar of Moon at Different Parts of Total Eclipse 
+47. Eclipse of Sun :Not Perceptible if Less than One­
+eighth Obscured . 48. 
+Sun Calculated from Conjunction (yoga) of Earth 
+and Sun, :Moon from Conjunction of Sun and 
+J\,foon, and Other Planets from Conjunction of 
+Planet and J\Ioon 
+49-50. Colophon 
+GENERAL INDEX 
+SANSKRIT l:NDEX 81 81 81 
+83 
+89 
+Downloaded from https://www.holybooks.comDownloaded from https://www.holybooks.comLIST OF ABBREVIATIONS 
+Alberuni ................... Alberuni's India. Translated by 
+E. C. Sachau. London, 1910. 
+Barth (CEuvres) ............. (Euvres de Auguste Barthe. 3 vols. 
+Paris, 1917. 
+BCMS ................... . Bulletin of the Calcutta Ma.the-
+matical Society. 
+Bhaskara, Ga7J,ittidhyaya ..... Edited by Bapu Deva Sastri; re­
+vised by Ramachandra Gupta. 
+Benares (no date). 
+Bhaskara, Goladhyiiya ....... Edited by Bapu Deva Sastri; re-
+vised by Ramachandra Gupta. 
+Benares (no date). Edited by 
+Girija Prasad Dvivedi. 
+Lucknow: Newul Kishore Press, 
+1911. 
+Bhattotpala ... : ............ The Brhat Sa1hhita by Varaha-
+mihira with the commentary 
+of Bhattotpala. "Vizianagram 
+Sanskrit Series," Vol. X. Be­
+nares, 1895-97. 
+Bibl. math .................. Bibliotheca mathematica. 
+Brahmagupta .............. Refers to Brahmasphutasiddhiinta. 
+Brahmasphutasiddhanta ...... Edited by Sudhakara Dvivedin in 
+the Pandit (N.S.), Vols. XXIII­
+XXIV. Benares, 1901-2. 
+Brennand, Hindu Astronomy .. W. Brennand, Hindu Astronomy. 
+London, 1896. 
+Brhat Sarhhita .............. The Brhat Sarhhita by Varahami-
+hira with the commentary of 
+Bhattotpala. ''Vizianagram. San­
+skrit Series," Vol. X. Benares, 
+1895-97. 
+xxvii 
+Downloaded from https://www.holybooks.comxxviii LIST OF ABBREVIATIONS 
+Colebrooke, Algebra ......... H. T. Colebrooke, Algebra, with 
+Arithme~ic and Mensuration, from 
+the Sanscrit of Brahmegupta and 
+Bhdscara. London, 1817. 
+Colebrooke, Essays .......... Miscellaneous Essays (2d ed.), by H. T. Colebrooke. Madras, 
+1872. 
+Hemacandra, Abhidhiina- Edited by Bohtlingk and Rieu. 
+cintamar:ii..... . . . . . . . . . . . St. Petersburg, 1847. 
+IA ........................ Indian Antiquary. 
+IHQ ...................... Indian Historical Quarterly. 
+JA ........................ Journal asiatique. J 
+ASB ..................... Journal and Proceedings of the 
+Asiatic Society of Bengal. 
+JBBRAS .................. Journal of the Bombay Branch of 
+the Royal Asiatic Society. 
+JBORS ................... .Journal of the Bihar and Orissa Research Society. 
+JIM S ..................... Journal of the Indian Mathematical Society. 
+JRAS ..................... Journal of the Royal Asiatic Society. 
+Kaye, Indian Mathematics ... G. R. Kaye, Indian Mathematics. 
+Calcutta, 1915. 
+Kaye, Hindu Astronomy ..... "Memoirs of the Archaeological Survey 
+of India," No. 18. Cal­cutta, 
+1924. 
+KharJ4akhadyaka ........... . By Brahmagupta. Edited by Babua Misra Jyotishacharyya. University 
+of Calcutta, 1925. 
+Lalla ...................... The Si?yadhivrddhida of Lalla. Edited by 
+Suclhakara Dvivedin. Benares 
+(no date). 
+M ahasiddhanta ............. By A.ryat>hata. Edited by Suclha-
+kara Dvivedin in the "Benares Sanskrit Series." 
+1910. 
+Downloaded from https://www.holybooks.comLIST OF ABBREVIATIONS xxix 
+l\Iarici. .................... The Ga1J,itadhyaya of Bhaskara's 
+SiddhantasiromaJJi with Vasana­
+bh~ya, Vasanavarttika, and 
+Marici. Pandit (N.S.), Vols. 
+XX...-X-XXXI. Benares, 1908-9. 
+Paiicasiddhantika ........... G. Thibaut and Sudha.kara Dvi-
+vedi, The Pancasiddhantika. The 
+Astronomical Work of Varaha 
+2\,f ihira. Benares, 1889. 
+Sudhakara, Ga7Jakatarangi1J'l .. Benares, 1892. 
+Suryasiddhanta ............ . Edited by F. E. Hall and Bapu 
+Deva Sastrin in the Bibliotheca indica. 
+Calcutta, 1859. 
+Translated by Burgess and Whit­
+ney, Journal of the American 
+Oriental Society, Vol. VI. 
+Vasanavarttika .............. The GarJ,itadhyaya of Bhaskara's 
+SiddhllntasiromarJ,i with Vasa­
+nabha~ya, Vasanavarttika, and 
+Marici. Pandit (N.S.), Vols. 
+XX...-X-XX..'X.I. Benares, 1908-9. 
+Z D MG .................... Zeitschrift der Deutschen Morgen-
+liindische:n Gesellschajt. 
+I, II, III, and IV refer to the four sections of the .A.ryabhafi,ya. 
+Downloaded from https://www.holybooks.comDownloaded from https://www.holybooks.comCHAPTER I 
+DASAG!TIKA OR THE TEN 
+GlTI STANZAS 
+A. Having paid reyerence to Brahman, who is one (in causal­
+ity, as the creator of the universe, but) many (in his manifesta­
+tions), the true deity, the Supreme Spirit, Aryabhata sets forth 
+three things: mathematics [gat,iita], the reckoning of time 
+[kiilakriya], and the sphere [gola]. 
+Baidyanatb suggests that satya devatii may denote Sarasvati, the goddess 
+of learning. For this I can find no support, and therefore 
+follow the commen­tator Paramesvara in translating "the true deity," 
+G_od in the highest sense of the word, as referring to Prajapati, Pitamaha, Svayambhu, the lower indi­vidualized Brahman, 
+who is so called as being the creator 
+of the universe and above all the other gods. Then this 
+lower Brahman is identified with the higher Brahman 
+as being only an individualized manif esta­tion 
+of the latter. As Paramesvara remarks, the use 
+of the word kam seems to indicate that .A.ryabhata 
+based his work on the old Pitamahasiddhanta. Sup­port for this 
+view is found in the concluding stanza 
+of our text (IV, 50), aryabhat'iyarh namna purvarh 
+svayambhuvarh sada sad yat. However, as shown by 
+Thibaut 1 and Kharegat, 2 there is a close connection between 
+Aryabhata a:e.d the old Suryasiddhanta. At 
+1 Pancasiddhantika, pp. xviii, xxvii. 
+2 JBBRAS, XIX, 129-31. 
+1 
+Downloaded from https://www.holybooks.com2 ARYABHA TIYA 
+present the evidence is too scanty to allow us to specify the sources from which 
+.Aryabhata drew. The stanza has been translated 
+by Fleet. 1 As 
+pointed out first by Bhau Daji, 2 a passage of Brahma­gupta (XII, 43), 
+janaty ekam api yato naryabhato 
+garJ,itakalagolilnam, seems to ref er to the GarJ,itapada, 
+the Kalakriyapada, and the Golapada of our Arya-~ 
+bhatiya (see also Bibhutibhusan Datta). 3 Since Brahmagupta (XI, 
+8) names the Dasagitika and the 
+Aryaf$tasata (108 stanzas) as works of .A.ryabhata, and since the three words of 
+XI, 43 refer in order to the last three sections 
+of the Aryaohafi,ya (which contain exactly 
+108 stanzas), their occurrence there in this order seems 
+to be due to more than mere coincidence. 
+As Fleet remarks, 4 Aryabhata here claims specifically as his work only three chapters. 
+But Brahmagupta 
+(628 A.n.) actually quotes at least three passages of 
+our Dasagitika and ascribes it to .Aryabhata. There is 
+no good reason for refusing to accept it as part of 
+.Aryabhata's treatise. 
+B. Beginning with ka the varga letters (are to be used) in the 
+varga places, and the avarga letters (are to be used) in the avarga 
+places. Ya is equal to the sum of na and ma. The nine vowels (are to be used) 
+in two nines of places varga and avarga. N avantya­
+varge va . 
+.A.ryabhata's system of expressing numbers by 
+means of letters has been discussed by Whish, 5 by 
+1JRA8, 1911, pp. 114-15. 8 BCMS, XVIII (1927), 16. 
+2 Ibid., 1865, p. 403. "'4 JRAS, 1911, pp. 115, 125. 
+5 Transactions of the Literary Society of Madras, I (1827), 54, 
+translated with additional notes by Jacquet, JA (1835), II, 118. 
+Downloaded from https://www.holybooks.comTHE TEN GiTI STANZAS 3 
+Brockhaus, 1 by Kern, 2 by Barth, 3 by Rodet, 4 by 
+Kaye,5 by Fleet, 6 by Sarada Kanta Ganguly,7 and by Sukumar Ranjan Das.
+8 I have not had access to the 
+Prthivir I tihasa of Durgadas Lahiri. 9 
+The words varga and avarga seem to ref er to the Indian method 
+of extracting the square root, which 
+is described in detail by Rodet 10 and by A vadhesh Narayan Singh.
+11 I cannot agree with Kaye' s state­
+ment12 that the rules given by .A.ryabhata for the extraction 
+of square and cube roots (II, 4-5) "are perfectly general (i.e., algebraical)" and apply to 
+all 
+arithmetical notations, nor with his criticism of the foregoing stanza: "Usually the texts give a verse explaining this notation, 
+but this explanatory' verse is not Aryabhata's."
+13 Sufficient evidence has not been adduced 
+by him to prove either assertion. The 
+varga or "square" places are the first, third, fifth, etc., counting from the right. The 
+avarga or 
+"non-square" places are the second, fourth, sixth, etc., counting from the right. The words 
+varga and 
+avarga seem to be used in this sense in II, 4. There is 
+no good reason for refusing to take them in the same sense here. 
+As applied to the Sanskrit alphabet the 
+varga letters referred to here are those from k to m, 
+1 Zeitschriftfur die Kunde des Morgenlandes, IV, 81. 
+2 JRAS, 1863, p. 380. 8 IHQ, III, 110. 
+a <Euvres, III, 182. 
+4 JA (1880), II, 440. 
+6 J ASB, 1907, p. 478. • 
+8 Op. cit., 1911, p. 109. 
+7 BCMS, XVII (1926), 195. 9 III, 332 ff. 
+10 Op. cit. (1879), I, 406-8. 
+11 BCMS, XVIII (1927), 128 
+12 Op. cit., 1908, p. 120. 
+11 Ibid., p. 118. 
+Downloaded from https://www.holybooks.com4 ARYABHA TIYA 
+which are arranged in five groups of five letters each. 
+The avarga letters are those from y to h, which are 
+not so arranged in groups. The phrase "beginning with 
+ka'' is necessary because the vowels also are divided into 
+vargas or "groups." Therefore 
+the vowel a used in varga and avarga 
+places with varga and avarga letters refers the varga 
+letters k to m to the first varga place, the unit place, multiplies them 
+by 1. The vowel a used with the 
+avarga letters y to h refers them to the first avarga 
+place, the place of ten's, multiplies them by 10. In 
+like manner the vowel i refers the letters k to m to the second 
+varga place, the place of hundred's, multi­plies 
+them by 100. It refers the avarga letters y to h 
+to the second avarga place, the place of thousand's, multiplies them 
+by 1,000. And so on with the other seven vowels 
+up to the ninth varga and avarga places. From 
+A.ryabhata's usage it is clear that the vowels to be employed are 
+a, i, u, r, ?, e, ai, o, and au. No distinction is made between long and short vowels. From 
+Aryabhata's usage it is clear that the letters 
+k to m have the values of 1-25. The letters y to h 
+would have the values of 3-10, but since a short a is regarded as inherent 
+in a consonant when no other vowel sign is 
+attached and when the virama is not 
+used, and since short a refers the avarga letters to the 
+place of ten's, the signs ya, etc., really have the values 
+of 30-100. 1 The vowels themselves have no numerical values. 
+They merely serve to., refer the consonants (which do have numerical values) to certain places. 
+1 See Sarada Kanta Ganguly, op. cit., XVII (1926), 202. 
+Downloaded from https://www.holybooks.comTHE TEN GITI STANZAS 5 
+The last clause, which has been left untranslated, offers great difficulty. The commentator Paramesvara takes 
+it as affording a method of expressing still higher numbers 
+by attaching anusvcfra or visarga to the vowels and using them in nine further 
+varga (and 
+avarga) places. It is doubtful whether the word 
+avarga can be so supplied in the compound. Fleet would translate "in the 
+varga place after the nine" as giving directions for referring a consonant 
+to the nineteenth place. 
+In view of the fact that the plural subject must carry over into this clause Fleet's in­terpretation seems to be impossible. Fleet suggests as an alternate interpretation the emendation 
+of va to 
+hau. But, as explained above, au refers h to the eighteenth place. 
+It would run to nineteen places only when expressed in digits. There 
+is no reason why such a statement should be made 
+in the rule. Rodet translates (without rendering the word 
+nava), "(sep­
+arement) ou a un groupe termine par un varga." That 
+is to say, the clause has nothing to do with the ex­pression 
+of numbers beyond the eighteenth place, 
+but merely states that the vowels may be attached to the consonants singly as 
+gara or to a group of con­sonants as 
+gra, in which latter case it is to be under­stood as applying to each consonant in 
+the group. So 
+giri or gri and guru or gru. Such, indeed, is Arya­
+bhata' s usage, and such a statement is really nec­essary in order to 
+avojd ambiguity, but the words do 
+not seem to warrant the translation given by Rodet. 
+If the words can mean ''at the end of a group," and 
+if nava can be taken-with what precedes, Rodet' s in-
+Downloaded from https://www.holybooks.com6 ARYABHA TlYA 
+terpretation is acceptable. However, I know no other passage which would warrant such a translation 
+of 
+antyavarge. 
+Sarada Kanta Ganguly translates, "[Those] nine 
+[vowels] [should be used] in higher places in a similar manner." 
+It is possible for va to have the sense of 
+"beliebig," "fakultativ," and for nava to be sepa­rated from 
+antyavarge, but the regular meaning of 
+antya is "the last." It has the sense of "the following" only 
+at the end of a compound, and the dictionary gives only one example 
+of that usage. If navantyavarge 
+is to be taken as a compound, the translation "in the group following 
+the nine" is all right. But Ganguly's translation 
+of antyavarge can be maintained only if he produces evidence to prove 
+that antya at the begin­ning 
+of a compound can mean "the following." 
+If nava is to be separated from antyavarge it is possible 
+to take it with what precedes and to trans­late, 
+"The vowels (are to be used) in two nine's of places, nine 
+in varga places and nine in avarga places," 
+but antyavarge va remains enigmatical. The translation must remain uncertain until further evidence bearing on the meaning 
+of antya 
+can be produced. Whatever the meaning may be, the passage is 
+of no consequence for the numbers actually dealt with 
+by Aryabhata in this treatise. The largest number used 
+by Aryabhata himself (I, 1) runs to only 
+ten places. ,. 
+Rodet, Barth, and some others would translate "in 
+the two nine's of zero's," instead of "in the two nine's 
+of places." That is to say, each vowel would serve to 
+Downloaded from https://www.holybooks.comTHE TEN GITI STANZAS 7 
+add two zero's to the numerical value of the con­sonant. This, 
+of course, ·will work from the vowel i on, 
+but the vowel a does not add two zero's. It adds no zero's or one zero depending on whether 
+it is used 
+with varga or avarga letters. The fact that khadvi­
+navake is amplified by varge 'varge is an added difficulty to the translation "zero." 
+It seems to me, therefore, preferable to take the word 
+kha in the sense of "space" or better "place."
+1 Later the word kha is one of the commonest words for 
+,:zero," but it is still disputed whether a symbol for zero was actually in use 
+in 
+.Aryabhata's time. It is possible that computation may have been made on a board ruled into columns. Only nine symbols may have been in use and a blank column may have served to represent zero. There is no evidence to indicate the way in which 
+the actual calculations were made, but it seems cer­
+tain to me that Aryabhata could write a number in 
+signs which had no absolutely fixed values in them­selves 
+but which had value depending on the places occupied 
+by them (mounting by powers of 10). Com­pare II, 
+2, where in giving the names of classes of 
+numbers he uses the expression sthanat sthanarh 
+dasagurJ,arh syat, "from place to place each is ten times the preceding." 
+. 
+There is nothing to prove that the actual calcula­tion was made 
+by means of these letters. It is prob­able 
+that Aryabhata was not inventing a numerical notation to be used 
+in calculation but was devising a system 
+by means of which he might express large, 
+1 Cf. Fleet, op. cit., 1911, p. 116. 
+Downloaded from https://www.holybooks.com8 ARY ABHA TlYA 
+unwieldy numbers in verse in a very brief form. 1 
+The alphabetical notation is employed only in the 
+Dasag'itika. In other parts of the treatise, where only a few numbers 
+of small size occur, the ordinary words which denote 
+the numbers are employed. 
+As an illustration of .A.ryabhata's alphabetical notation 
+take the number of the revolutions of the Moon 
+in a yuga (I, 1), which is expressed by the word. 
+cayagiyinusuchlr. Taken syllable by syllable this gives 
+the numbers 6 and 30 and 300 and 3,000 and 50,000 and 700,000 
+and 7,000,000 and 50,000,000. 
+That is to say, 57,753,336. It happens here that the digits are given 
+in order from right to left, but they may be given in reverse order or 
+in any order which will make the syllables fit into the meter. 
+It is hard to believe 
+that such a descriptive alphabetical nota­tion was not based on a place-value notation. This stanza, as being a technical 
+paribhaf$a stanza which indicates 
+the system of notation employed in the 
+Dasagitika, is not counted. The invocation and the colophon are not counted. There 
+is no good reason why the thirteen stanzas should not have been named 
+Dasagitika (as they are named by Aryabhata himself 
+in stanza C) from the ten central stanzas in Giti 
+meter which give the astronomical elements of the system. The discrepancy offers no firm support to 
+the 
+contention of Kaye that this stanza is a later addition. 
+The manuscript referred to by Kaye 2 as containing fifteen instead of thirteen stanzas is doubtless com-
+1 See J.A. (1880), II, 454, and BCMS, XVII (1926), 201. 
+2 Op. cit., 1908, p. 111. 
+Downloaded from https://www.holybooks.comTHE TEN GITI STANZAS 9 
+parable to the one referred to by Bhau Daji1 as having 
+two introductory stanzas "evidently an after-addi­tion, 
+and not in the Arya metre.'' 
+1. In a yuga the revolutions of the Sun are 4,320,000, of the 
+Moon 57,753,336, of the Earth eastward 1,582,237,500, of Saturn 
+1-16,564, of Jupiter 36-1,22-1, of Mars 2,:296,824, of 1\Iercury and 
+Y enus the same as those of the Sun. 
+2. of the apsis of the Moon -188,219, of (the conjunction of) 
+Mercury 17,937,020, of (the conjunction of) Venus 7,022,388, of ( 
+the conj imctions of) the others the same as those of the Sun, of 
+the node of the 1\foon westward 232,226 starting at the beginning of 
+Me~a at sunrise on ,yednesday at Lanka. 
+The so-called revolutions of the Earth seem to 
+ref er to the rotation of the Earth on its axis. The 
+number given corresponds to the number of sidereal days usually reckoned 
+in a yuga. Paramesvara, who follows 
+the normal tradition of Indian astronomy 
+and believes that the Earth is stationary, tries to 
+prove that here and in IV, 9 (which he quotes) 
+Aryabhata does not really mean to say that the Earth 
+rotates. His effort to bring .A.ryabhata into agreement with 
+the views of most other Indian astronomers seems 
+to be misguided ingenuity. There is no warrant 
+for treating the revolutions of the Earth given here as based on false knowledge 
+(mithyajnana), which causes 
+the Earth to seem to move eastward because of 
+the actual westward movement of the planets (see 
+note to I, 4). 
+In stanza 1 the ~yllable ~ in the phrase which gives 
+the revolutions of the Earth is a misprint for 
+bu as given correctly in the commentary. 2 
+1 Ibid., 1865, p. 397. 2 See imd., 1911, p. 122 n. 
+Downloaded from https://www.holybooks.com10 ARYABHATIYA 
+Here and elsewhere in the DasagUika words are used 
+in their stem form without declensional endings. Lalla 
+(Madhyamadhikara, 3-6, 8) gives the same numbers for 
+the revolutions of the planets, and differs only 
+in giving "revolutions of the asterisms" instead of "revolutions 
+of the Earth." 
+The Suryasiddhanta (I, 29-34) shows slight varia­tions (see 
+Pancasiddhantika, pp. xviii-xix, and Kharegat
+1 for the closer relationship of Aryabhata 
+to the old Suryasiddhanta). 
+Bibhutibhusan Datta, 2 in criticism of the number of revolutions of 
+the planets reported by Alberuni (II, 16-19), remarks 
+that the numbers given for the 
+revolutions of Venus and Mercury really refer to the 
+revolutions of their apsides. It would be more accu­
+rate to say "conjunctions." Alberuni (I, 370, 377) quotes from a book 
+of 
+Brahmagupta's which he calls Critical Research on the 
+Basis of the Canons a number for the civil days accord­ing 
+to Aryabhata. This corresponds to the number of 
+sidereal days given above (cf. the number of sidereal days given 
+by Brahmagupta [I, 22]). Compare 
+the figures for the number of revolutions of 
+the planets given by Brahmagupta (I, 15-21) which differ 
+in detail and include figures for the revolutions 
+of the apsides and nodes. Brahmagupta (I, 61) 
+akrtaryabhatal). sighragam indiiccam patam alpagaril svagatel). I 
+tithyantagrahaI).anaril ghu:t;tak$aram tasya sarr1vadal). 11 
+. ,. -criticizes the numbers given by Aryabhata for the 
+revolutions of the apsis and node of the Moon. 3 
+1 JBBRAS, XVIII, 129-31. 2 BCMS, XVII (1926), 71. 
+3 See further Bragmagupta (V, 25) and Alberuni (I, 376). 
+Downloaded from https://www.holybooks.comTHE TEN GITI STANZAS 11 
+Brahmagupta (II, 46-47) remarks that according 
+to Aryabhata all the planets were not at the first point of 
+l\f e~a at the beginning of the yuga. I do not know on 
+what evidence this criticism is based. 1 
+Brahmagupta (XI, 8) remarks that according to 
+the ~4.ry~ta,sata the nodes move while according to 
+the Dasag"itika the nodes ( excepting that of the l\Ioon) 
+are fixed: 
+arya§tasate pata bhramanti dasagitike sthiral:t patal;t I 
+muktvendupatam apama:Q.qale bhramanti sthira natal:t. II 
+This refers to I, 2 and IV, 2. Aryabhata (I, 7) gives 
+the location, at the time his work was composed, of 
+the apsides and nodes of all the planets, and (I, 7 and 
+IV, 2) implies a knowledge of their motion. But he gives figures only for 
+the apsis and node of the Moon. This 
+may be due to the fact that the numbers are so 
+small that he thought them negligible for his purpose. Brahmagupta 
+(XI, 5) quotes stanza 1 of our text: 
+yugaravibhaga:r;tal;t khyughriti yat proktam tat tayor yugaril spa~tarh 
+I 
+trisatI ravyudayanam tadantararn hetuna kena. 112 
+1 See Suryasiddhanta, pp. 27-28, and JRAS, 1911, p. 494. 
+2 Cf. JRAS, 1865, p. 401. This implies, as Sudhakara says, that 
+Brahmagupta knew two works by .A.ryabhata each giving the revolu­tions of 
+the Sun as 4,320,000 but one reckoning 300 s(J,vana days more 
+than the other. Cf. Kharegat (op. C'it., XIX, 130). Is the reference to 
+another book by the author of our treatise or was there another 
+earlier .A.ryabhata? Brahmagupta (XI, 13-14) further implies that 
+he knew two works by an ap.thor named A.ryabhata in one of which 
+the yuga began at sunrise, in the other at midnight (see JRAS, 
+1863, p. 384; JBBRAS, XIX, 130-31; JRAS, 1911, p. 494;.IHQ, IV, 
+506). At any rate, Brahmagupta does not imply knowledge of a second 
+.A.ryabhata. For the whole problem of the two or three A.rya­
+bhatas see Kaye (Bibl. math., X, 289) and Bibhutibhusan Datta 
+Downloaded from https://www.holybooks.com12 A.RYABHA TlYA 
+3. There are 14 Manus in a day of Brahman [a kalpa], and 
+72 yugas constitute the period of a Manu. Since the beginning 
+of this kalpa up to the TJ1_ursday_ of the Bharata battle 6 Manus, 
+27 yugas, and 3 yugapadas have elapsed. 
+The word yugapada seems to indicate that Arya­
+bhata divided the yuga into four equal quarters. There is no direct statement to this effect, 
+but also there is no reference 
+to the traditional method of 
+dividing the yuga into four parts in the proportion of 
+4, 3, 2, and 1. Brahmagupta and later tradition ascribes to 
+.Aryabha ta the division of the yuga into four equal parts. 
+For the traditional division see 
+Suryasiddhanta (I, 18-20, 22-23) and Brahmagupta (I, 7-8). 
+For discussion of this and the supposed divisions 
+of .Aryabhata see Fleet. 1 Compare III, 10, 
+which gives data for the calculation of the date of the composition 
+of .Aryabhata's treatise. It is clear 
+that the fixed point was the beginning of .Aryabhata's 
+fourth yugapada (the later Kaliyuga) at the time of 
+the great Bharata battle in 3102 B.c. 
+Compare Brahmagupta (I, 9) 
+yugapadan aryabhatas catvari samani krtayugadini I 
+yad abhihitavan na te~arh smrtyuktasamanam ekam api II 
+and XI, 4 
+aryabhato yugapadams trill yatan aha kaliyugadau yat I 
+tasya lqtantar yasmat svayugadyantau na tat tasmat II 
+(op. cit., XVII [1926], 60-74). The PancaMdhantilca also (XV, 20), 
+"Aryabhata maintains that the beginning of the day is to be reckoned from midnight 
+at Lanka; and the same 'teacher again says that the day begins from sunrise 
+·at Lanka,'' ascribes the two theories to one 
+Aryabhata. 
+1 Op. cit., 1911, pp. 111, 486. 
+Downloaded from https://www.holybooks.comTHE TEN GITI STANZAS 13 
+with the comn1entary of Sudhakara. Brahmagupta (I, 
+12) quotes stanza I, 3, 
+manusandhiril yugam icchaty aryabhatas tanmanur yatal). skhayuga}:i 
+! 
+kalpas caturyuganam. sahasram a:;;tadhika:rn. tasya. !11 
+Brahmagupta (I, 28) refers to the same matter, 
+adhikal;i. smrtyuktamanor liryabhat,oktas caturyuge:i;ia manul)_ I 
+adhikaril viri1slimsayutais tribhir yugais tasya kalpagatum. 11 
+Brahmagupta (XI, 11) criticizes .Aryabhata for be-ginning the Kaliyuga with Thursday (see the com­mentary 
+of Sudhakara). 
+Bhau Daji 2 first pointed out the parallels in Brahmagupta I, 9 and 
+XI, 4 and XI, 11.3 
+4. The revolutions of the Moon (in a yuga) multiplied by 12 
+are signs [ras-i]. 4 The signs multiplied by 30 are degrees. The 
+degrees multiplied by 60 are minutes. The minutes multiplied 
+by 10 are yojanas (of the circumference of the sky). The Earth 
+moves one minute in a pra?J,a. 5 The circumference of the sky (in 
+yojanas) divided by the. revolutions of a planet in a yuga gives 
+the yojanas of the planet's orbit. The orbit of the Sun is a siA'tieth 
+part of the circle of the asterisms. 
+In translating the words sasirasaya[i tha cakram 
+I have followed Paramesvara's interpretation sasinas 
+cakram bhagaJJ,a dvadasaguJJ,ita rasaya!J,. The Sanskrit construction is a harsh one, 
+but there is no other way 
+of making sense. Sasi ( without declensional ending) is to be separated. Paramesvara explains the word 
+grahajavo as fol-
+1 Cf. III, 8. • 2 Op. cit., 1865, pp. 40o-401. 
+3 Cf. Alberuni, I, 370, 373-74. 
+4 A rasi is a sign of the zodiac or one-twelfth of a circle. 
+6 For '[)'T"a?J,a see III, 2. 
+Downloaded from https://www.holybooks.com14 ARYABHA'f!YA. 
+lows: ekaparivrttau grahasya javo gatimanarh yojana­
+tmakarh bhavati. 
+The word yojanani must be taken as given a figure in 
+yojanas for the circumference of the sky (akasa­
+kak~ya). It works out as 12,474,720,576,000, which is 
+the exact figure given by Lalla (M adhyamadhikara 
+13) who was a follower of .Aryabhata. Compare 
+Suryasiddhanta, XII, 80-82; Brahmagupta, XXI, 
+11-12; Bhaskara, Goladhyaya, Bhuvanakosa, 67-69 
+and Ga'Y),itadhyaya, Kak~adhyaya, 1-5. 
+The statement of Alberuni (I, 225) with regard to the followers of 
+A.ryabhata, 
+It is sufficient for us to know the space which is reached by the solar rays. We do not want the space which is not reached 
+by the solar rays, though it be in itself of an enormous extent. 
+That which is not reached by the rays is not reached by the per­ception 
+of the senses, and that which is not reached by per­ception is not knowable, 
+may be based ultimately upon this passage. The reading 
+bham of our text must be incorrect. 
+It is a reading adopted by Paramesvara who was de­termined to prove 
+that .Aryabhata did not teach the rotation 
+of the Earth. This passage could not be ex­
+plained away by recourse to false knowledge (mith­
+yajnana) as could I, 1 and IV, 9 and therefore was changed. The true reading 
+is bhu'IJ,, as is proved con­clusively 
+by the quotation of Brahmagupta (XI, 17): 
+pra,:t;tenaiti kalam. bhiir yadi tarhi kuto vrajet kam adhvanam I 
+avarttanam urvyas cen na patanti samucchrayal). kasmat. 11 
+Compare Brahm.agupta (XXI, 59) and Alberuni (I, 
+276-77, 280). 
+Downloaded from https://www.holybooks.comTHE TEN GfTI STANZAS 15 
+5. A yojana consists of 8,000 times a nr [the height of a manJ. The diameter 
+of the Earth is 1,050 yojanas. The diameter of the Sun 
+is 4,410 yojanas. The diameter of the Moon is 315 yojanas. 
+Meru is one yojana. The diameters of Venus, Jupiter, :Mercury, 
+Saturn, and Mars are one-fifth, one-tenth, one-fifteenth, one­twentieth, and one-twenty-fifth 
+of the diameter of the l\:Ioon. 
+The years of a yuga are equal to the number of revolutions of the 
+Sun in a yuga. 
+As pointed out by Bhau Daji, 1 Brahmagupta (XI, 15-16) seems to quote from this stanza in his criticism 
+of the diameter of the Earth given by .. ~yabhata 
+~ocJ_asagaviyojana paridhirn pratibhiivyasam pulavadata I 
+atmajfi.anaril khyapitam aniscayas tanilqtakanyat 11 
+bhiivyasasyajfianad vyartham desantararh tadajfianat I 
+sphutatithyantajfianarn tithinasad graha:r;ayor nasal;i.. 11 
+The text of Brahmagupta is corrupt and must be emended. 
+See the commentary of Sudhakara, who suggests for the first stanza 
+Il!1liyojanabhuparidhim prati bhiivyasam punar fiila vadata I 
+atmajfi.anam khyapitarn aniscayas tatlqtavyasal:i.. 11 
+Lalla (M adhyamadhikara, 56 and Candragrahar:ia­
+dhikara, 6) gives the same diameters for the Earth 
+and the Sun but gives 320 as the diameter of the Moon, and ( 
+Grahayutyadhikara, 2) gives for the planets the same fractions 
+of the diameter of the Moon.
+2 
+Alberuni (I, 168) quotes from Brahmagupta 
+Aryabhata's diameter of the Earth, and a confused 
+1 JRAS, 1865, p. 402. 
+2 Cf. Suryasiddhanta, I, 59; IV, 1; VII, 13-14; Brahmagupta, 
+XXI, 32; Kharegat (op. cit., XIX, 132-34, discussing Suryasiddhanta, 
+IX, 15-16). 
+Downloaded from https://www.holybooks.com16 ARYABHATIYA 
+passage (I, 244-46) quotes Balabhadra on Arya­
+bhata's conception of Meru. Its height is said to be a 
+yojana. The context of the foregoing stanza seems 
+to imply that its diameter is a yojana, as Paramesvara takes it. 
+It is probable that its height is to be taken 
+as the same. 
+If Paramesvara is correct in interpreting samarka­
+samalJ, as yugasama yugarkabhagarJ,asama, the nomi­native plural 
+samalJ, has been contracted after sandhi. 
+6. The greatest declination of the ecliptic is 24 degrees. The 
+greatest deviation of the Moon from the ecliptic is 4½ degrees, of 
+Saturn 2 degrees, of Jupiter 1 degree, of Mars 1 ½ degrees, of Mercury 
+and Venus 2 degrees. Ninety-six angulas or 4 hastas 
+make 1 nr. 
+Paramesvara explains the words bhapakramo 
+grahamsab, as follows: graharJ,arh bha arhsas catur­
+'Virhsatibhaga apakramab,. paramapakrama ity arthab,. 
+The construction is as strange as that of stanza 4 
+above. 1 
+7. The ascending nodes of Mercury, Venus, Mars, Jupiter, 
+and Saturn having moved (are situated) at 20, 60, 40, 80, and 
+100 degrees from the beginning of Mei,a. The apsides of the Sun 
+and of the above-mentioned planets (in the same order) (are situated) 
+at 78, 210, 90, 118, 180, and 236 degrees from the beginning of 
+M6lila. 
+I have followed Paramesvara's explanation of 
+gatvarhsakan as uktan etan evarhsakan me?adito gatva 
+vyavasthitab,. 
+In view of IV, 2, "the Sun and the nodes of the 
+planets and of the Moon move constantly along the 
+1 Cf. SuryasiddMnta, I, 68-70 and II, 28; Brahmagupta, IX, 1 and XXI, 
+52. 
+Downloaded from https://www.holybooks.comTHE TEN GlTI STANZAS 17 
+ecliptic," and of I, 2, which gives the number of revo­lutions of 
+the node of the nioon in a yuga, the word 
+gatva ("having gone") seems to imply, as Parame­
+svara says, a knowledge of the revolution of the nodes of 
+the planets and to indicate that ... lryabhata in­
+tended merely to give their positions at the time his treatise was composed. 
+The force of gatva continues into 
+the second line and indicates a knowledge of the 
+revolutions of the apsides. 
+Aryabhata gives figures for the revolutions of the 
+apsis and node of the lv1oon. Other siddhantas give figures for 
+the revolutions of the nodes and apsides of all 
+the planets. These seem to be based on t!ieory 
+rather than on observation since their motion (except 
+in the case of the l\1oon) is so slow that it would take· 
+several thousand years for them to move so far that 
+their motion could easily be detected by ordinary 
+methods of observation. 1 Aryabhata may have re­frained from giving figures for 
+the revolutions of nodes 
+and apsides ( except in the case of the Moon) because 
+he distrusted the figures given in earlier books as based on 
+theory rather than upon accurate observa­tion. 
+Brahmagupta XI, 8 ( quoted above to stanza 2) remarks 
+in criticism of Aryabhata that in the Dasa­
+gUika the nodes are stationary while in the Arya­
+?tasata they move. This refers to I, 2 and IV, 2. In 
+the DasagUika only the revolutions of the nodes of 
+the Moon are given; in the Arya?tasata the nodes and 
+apsides are said explicitly to move along the ecliptic. 
+In the present stanza the word gatva seems clearly to 
+1 Cf. Suryasiddhanta, pp. 27-28. 
+Downloaded from https://www.holybooks.com18 ARYABHATIYA 
+indicate a knowledge of the motion of the nodes and apsides 
+of the other planets too. If Aryabhata had intended to say merely 
+that the nodes and apsides are situated 
+at such-and-such places the word gatva is superfluous. 
+In a text of such studied brevity every word is used with a very definite purpose. 
+It is true 
+that Aryabhata regarded the movement of the nodes and apsides 
+of the other planets as negligible for pur­poses 
+of calculation, but Brahmagupta's criticism seems to be captious and unjustified (see also Bra­hmagupta, 
+XI, 6-7, and the commentary of Sudha­
+kara to XI, 8). Barth's criticism 1 is too severe. Lalla 
+(Spaf}ta,dhikara, 9 and 28) gives the same positions for 
+the apsides of the Sun and five planets (see also 
+Pancasiddhantika, XVII, 2). For the revolutions 
+of the nodes and apsides see Brahmagupta, 
+I, 19-21, and Suryasiddhanta, I, 41-44, and note to I, 44. 
+8. Divided by 4½ t]:ie epicycles of the apsides of the Moon, the Sun, Mercury, Venus, Mars, Jupiter, and Saturn (in the first and third quadrants) are 
+7, 3, 7, 4, 14, 7, 9; the epicycles of the conjunctions 
+of Saturn, Jupiter, Mars, Venus, and Mercury (in 
+the first and third quadrants) are 9, 16, 53, 59, 31; 
+9. the epicycles of the apsides of the planets Mercury, Venus, Mars, Jupiter, and Saturn in the second and fourth quadrants are 
+5, 2, 18, 8, 13; the epicycles of the conjunctions of the planets Saturn, Jupiter, Mars, Venus, and Mercury in the second and fourth quadrants are 
+8, 15, 51, 57, 29. The circumference within which the Earth-wind 
+blows is 3,375 yojanas. ----•~-' 
+The criticism of these stanzas made by Brahma-· gupta (II, 33 and 
+XI, 18-21) is, as pointed out by 
+1 Op. cit., III, 154. 
+Downloaded from https://www.holybooks.comTHE TEN GITI STANZAS 19 
+Sudhakara, not justifiable. For the dimensions of Brahmagupta's epicycles see 
+II, 34-39). 
+Lalla (Spa?tiidhikara, 28) agrees closely with stanza 8 and 
+(Grahabhrama;:ia, 2) gives the same figure for the Earth-wind. Compare also 
+Suryasiddhanta, 
+II, 34-37 and note, and Paftcasiddhantika, XVII, 1, 3. 
+10. The (twenty-four) sines reckoned in minutes of arc are 225, 
+224, 222, 219, 215, 210, 205, 199, 191, 183, 174, 164, 154, 143, 
+131, 119, 106, 93, 79, 65, 51, 37, 22, 7. 
+In Indian mathematics the "half-chord" takes the place 
+of our "sine." The sines are given in minutes 
+(of which the radius contains 3,438) at intervals of 225 
+minutes. The numbers given here are in reality not the values 
+of the sines themselves but the differences between the sines. Compare Silryasiddhanta (II, 
+15-27) and Lalla 
+(Spa?tildhikara, 1-8) and Brahmagupta (II, 2-9). 
+Bhaskar a ( Gattitadhyaya, Spaf(iidhikara, Vasanabha­
+?Ya to 3-9) refers to the S1.-Zryasiddhiinta and to 
+Aryabhata as furnishing a precedent for the use of 
+twenty-four sines. 1 
+Krishnaswami Ayyangar 2 furnishes a plausible explanation 
+of the discrepancy between certain of the values given in the foregoing stanza and the values as calculated by 
+II, 12. 3 Some of the discrepancies may be due to bad readings 
+of the manuscripts. Kern 
+1 For discussion of the stanza see Barth, ibid., III, 150 n., and 
+J RAS, 1911, pp. 123-24. 
+2 JIMS, XV (1923-24), 121-26. 
+3 See also N araharayya, "Note on the Hindu Table of Sines," ibid., 
+pp. 105-13 of "Notes and Questions." 
+Downloaded from https://www.holybooks.com20 ARYABHA TlYA 
+in a footnote to the stanza and Ayyangar (p. 125 n.) 
+point out that the text-reading for the sixteenth and 
+seventeenth sines violates the meter. This, however, 
+may be remedied easily without changing the values. 1 
+C. Whoever knows this Dasagitika Sutra which describes 
+the movements of the Earth and the planets in the sphere of the 
+asterisms passes through the paths of the planets and asterisms 
+and goes to the higher Brahman. 
+1 Cf. JRAS, 1910, pp. 752, 754, and IA, XX, 228. 
+Downloaded from https://www.holybooks.comCH.APTER II 
+GA}flTAPADA OR MATHE1IATICS 
+1. Having paid reverence to Brahman, the Earth, the Moon, 
+:\Iercury, Venus, the Sun, :.Mars, Jupiter, Saturn, and the aster­isms, 
+lryabhata sets forth here [in this work] the science which is honored 
+at Kusumapura. 1 
+The translation "here at Kusumapura the revered science" is possible. 
+At any rate, .Aryabhata states the school to which he belongs. Kusumapura may or may not have been the place 
+of his birth. 
+2. The numbers eka [one], dasa [ten], sata [hundred], sahasra 
+[thousand], ayuta [ten thousand], niyuta [hundred thousand], 
+prayuta [million], koti [ten million], arbuda [hundred million], and 
+vrnda [thousand million] are from place to place each ten times 
+the preceding. 2 
+The names for classes of numbers are given only to ten places, although I, 
+B describes a notation which reaches 
+at least to the eighteenth place. The 
+highest number actually used by Aryabhata himself runs to ten places. 
+3. A square, the area of a square, and the product of two equal quantities are called 
+varga. The product of three equal quantities, and a solid which has twelve edges are called 
+ghana. 3 
+1 Translated by Ffeet, JRAS, 1911, p. 110. See Kern's Preface to 
+bis edition of the Brhat Sarhhita, p. 57, and BCMS, XVIII (1927), 7. 
+2 See JRAS, 1911, p. 116; IHQ, III, 112; BCMS, XVII (1926), 
+198. For the quotation in Alberuni (I, 176), which differs in the last two names, 
+see the criticism in BCMS, XVII (1926), 71. 
+• 3 Read dvadasasras with Paramesvara. For asra in the sense of 
+"edge" see Colebrooke, Algebra, pp. 2 n. and 280 n. The translations given 
+by Rodet and Kaye are inaccurate. 
+21 
+Downloaded from https://www.holybooks.com22 ARYABHA TlYA 
+4. One should always divide the avarga by twice the (square) root 
+of the (preceding) varga. After subtracting the square ( of the quotient) from the 
+varga the quotient will be the square root to the next place. 
+Counting from right to left, the odd places are called 
+varga and the even places are called avarga. 
+According to Paramesvara, the nearest square root to the number in the last odd place on 
+the left is set down in a place apart, and after this are set down the successive quotients 
+of the division performed. The number subtracted is 
+the square of that figure in the root represented 
+by the quotient of the preceding division. The divisor 
+is the square of that part of the root which has already been found. 
+If the last sub­traction leaves no remainder the square root 
+is exact. "Always" indicates 
+that if the divisor is larger than the number to be divided a zero 
+is to be placed in the line (or a blank space left there). 
+Sthtiniintare ("in an­other place") is equivalent to the 
+pankti ("line") of 
+the later books. This process seems to be substantially correct, 
+but 
+there are several difficulties. Sthantintare may mean simply 
+"to another place," that is to say, each division performed gives another figure of the root. 
+Nityam ("always") may merely indicate that such is the regular way 
+of performing the operation. 
+All the translators except Saradakanta Ganguly translate 
+vargad varge suddhe with what precedes. I think he is correct in taking 
+it with what follows. In 
+that case the parallelism with the following rule is exact. Otherwise the first rule would give the opera-
+Downloaded from https://www.holybooks.comGA~ITAPIDA OR l\IATHE1TATICS 23 
+tion for the varga place and then that for the avarga 
+place while the second rule would give first the opera­tions for the aghana places and then 
+that for the 
+ghana place. However, for purposes of description, it 
+makes no difference whether the operations are given in one or the other 
+of these orders. Parallelism 
+with ghanasya m·ulavarge'(ia of the 
+folluwing rule seems to indicate that varganzulena is not to be translated "square root" 
+but "root of the (preceding) varga.'' 
+If the root is to contain more than two figures the 
+varga of vargamulena is to be interpreted as applying to all the preceding figures 
+up to and including the 
+varga place which is being worked with. That is to say, the word 
+rnula would refer to the whole of that 
+part of the root which had already been found. 1 
+For discussion see Kaye, 2 A vadhesh Narayan 
+Singh,3 Saradakanta Ganguly. 4 I cannot agree with Ganguly' s discussion 
+of the words bhagarh hared 
+avargat. 1 see no reason to question the use of bhagarh 
+harati with the ablative in the sense of "divide." Brahmagupta (XII, 
+7) in his description of the 
+process of extracting the cube root has chedo 'ghanad dvitiyat, 
+which means "the divisor of the second aghana." Kaye
+5 insists that this rule and the next are per­fectly general (i.e., algebraical) and apply 
+to all arithmetical notations. 
+He offers no proof and gives 
+1 See Colebrooke, op. cit., p. 280 n. 
+2 JASB, 1907, pp. 493-94. 
+3 BCMS, XVIII (1927), 124. 4 JBORS, XII, 78. 
+0 Op. cit., 1908, p. 120. 
+Downloaded from https://www.holybooks.com24 ARYABHATiYA 
+no example of the working of the rule according to his interpretation. 
+To what do the words "square" and "non-square" 
+of his translation refer? The words 
+of Aryabhata exactly fit the method employed in later Indian mathematics. Although Brahmagupta does not give a rule for square root, his method for cube root is 
+that described below, although the wording of 
+his rule is different from that of Aryabhata's. I fail to see any similarity 
+to the rule and method of Theon 
+of Alexandria. 
+In the following example the sign ° indicates the 
+varga places, and the sign -indicates the avarga 
+places. 
+Square of the root Twice the root 
+(2Xl) 
+Square of the quotient Twice the root 
+\2X12) 
+Square of the quotient o-o-o 15129 (root= 1 
+1 
+2)05(2= quotient (or next digit of root) 
+4 
+11 
+4 
+24)72(3= quotient t_or next digit of root) 
+72 
+09 
+9 
+0 
+Square root is 1 2 3 
+5. One should divide the second aghana by three times the square 
+of the (cube) root of the (preceding) ghana. The square (of the quotient) multiplied 
+by three times the purva (that part of 
+the cube root already found) is to be subtracted from the first 
+Downloaded from https://www.holybooks.comGA~ITAPADA OR :MATHEMATICS 25 
+aghana, and the cube (of the quotient of the above division) is to 
+be subtracted from the ghana. 
+The translation given by A vadhesh Narayan Singh
+1 as a "correct literal rendering" is inaccurate. There is nothing in the Sanskrit which corresponds to "after having subtracted the cube 
+(of the quo­tient) from the 
+ghana place" or to "the quotient placed 
+at the next place gives the root." The latter thought, 
+of course, does carry over into this rule from the preceding rule. 
+In the same article (p. 132) the Sanskrit 
+of the rule is inaccurately printed with 
+trighanasya for trigu1J,ena ghanasya. 2 
+Kaye3 remarks that this rule is given by Brahma­gupta "word for word." 
+As a matter of fact, the 
+Sanskrit of the two rules is very different, although the content 
+is exactly the same. Counting from right to left, 
+the first, fourth, etc., places are named 
+ghana (cubic); the second, fifth, etc., places are called the first 
+aghana (non-cubic) places; and the third, sixth, etc., places are called 
+the 
+second aghana (non-cubic) places. The nearest cube root to the number in ( or up to and including) the last 
+ghana place on the left is the first figure of the cube root. After 
+it are placed the quotients of the succes­sive divisions. 
+If the last subtraction leaves no remainder the cube root is exact. 
+1 BCMS, XVIII (1927), 134. 
+2 The rule has been discussed in JBORS, XII, 80. Cf. Brah­roagupta (XII, 
+7) and the translation and note of Colebrooke (op. 
+cit., p. 280). 
+3 Op. cit., 1908, p. 119. 
+Downloaded from https://www.holybooks.com26 ARYABHATIY A 
+In the following exan1ple the sign ° indicates the 
+ghana places and the sign -indicates the aghana 
+places. 
+Cube of root Three times square 
+of root 
+(3Xl2) 
+Square of quotient multiplied 
+by three times the purva 
+(22X3Xl) 
+Cube of quotient Three times square of root 
+(3X 122) 
+Square of quotient multiplied 
+by three times the purva 
+(32X3X12) 
+Cube of quotient o-•-o--o 
+1860867 (root= 1 
+1 
+3)08(2 = quotient (or next digit of 
+6 root) 26 12 140 
+8 
+432) 1328(3 = quotient (or next digit 1296 of root) 326 324 
+27 27 
+0 
+Cube root is 1 2 3 
+6. The area of a triangle is the product of the perpendicular and half 
+the base. Half the product of this area and the height is the volume of a solid 
+_which has six edges (pyramid). 
+If samadalakott can denote, as Paramesvara says, a perpendicular which is common 
+to two triangles the 
+rule refers to all triangles. If samadalakofi, refers to a perpendicular which bisects 
+the base it refers only to 
+isosceles triangles. 1 
+1 For asra or asri in the sense of "edge" see note to stanza II, 3. 
+See JBORS, XII, 84-85, for discussion of the inaccurate value given 
+in the second part of the rule. 
+Downloaded from https://www.holybooks.comGA~ITAPADA OR MATHEMATICS 27 
+7. Half of the circumference multiplied by half the diameter is 
+the area of a circle. This area multiplied by its own square root is 
+the exact volume of a sphere. 1 
+8. The two sides (separately) multiplied by the perpendicu­
+lar and divided by their sum ·will gfre the perpendiculars (from the point 
+where the two diagonals intersect) to the parallel sides. The area 
+is to be known by multiplJing half the sum of the two sides 
+by the perpendicular. 
+a 
+aXc=d 
+a+b ' 
+bXc 
+a+b =e' 
+Area=c(a+b) 2 . 
+b 
+The rule applies to any four-sided plane figure of 
+which two sides are parallel, i.e., trapezium. The word translated "sides" refers to the two parallel sides. The perpendicular 
+is the perpendicular be­tween the two parallel sides. 
+In the example given above a and b are the parallel sides, 
+c is the perpendicular between them, and 
+d and e are the perpendiculars from the point 
+·of intersection of the two diagonals to the sides a and 
+b, respectively. 
+9. The area of any plane figure is found by determining two sides 
+and then multiplying them together. The chord 
+of the sixth part of the circumference is equal to 
+the radius. 
+1 See ibid. and Bibl. math., IX, 196, for discussion of the inac­curate 
+value given in the second part of the rule. For a possible =,_, 
+reference to this passage by Bhaskara, Goladhyiiya, Bhuvanakosa, 
+stanza 61 (Vasaniibha9Ya) (not stanza 52 as stated), see BCMS, " 
+XVIII (1927), 10. 
+Downloaded from https://www.holybooks.com28 ARYABHA TIYA 
+The very general rule given in the first half of this stanza seems 
+to mean, as Paramesvara explains in some detail, 
+that the mathematician is to use his in­genuity in determining two sides which will represent 
+the average length and the average breadth of the figure. Their product will be 
+the area. Methods to be employed with various kinds 
+of figures were doubt­less handed down 
+by oral tradition. Rodet thinks 
+that the rule directs that the figure be broken up into a number of trapeziums. 
+It is doubtful whether 
+the words can bear that interpretation. 
+10. Add 4 to 100, multiply by 8, and add 62,000. The result is approximately 
+the circumference of a circle of which the diameter is 
+20,000. 
+The circumference is 62,832. The diameter is 
+20,000. 
+By this rule the relation of circumference to diameter is 3.1416.
+1 
+Bhaskara, Goladhyaya, Bhuvanakosa (stanza 52), 
+Vasanabha?ya, refers to this rule of Aryabhata. 
+11.. One should divide a quarter of the circumference of a circle (into as 
+many equal parts as are desired). From the tri­angles and quadrilaterals (which are formed) one will have on the radius as 
+many sines of equal arcs as are desired. 2 
+The exact method of working out the table is not known. 
+It is uncertain what is intended by the triangle 
+and the quadrilateral constructed from each point marked on 
+the quadrant. 3 
+1 See JBORS, XII, 82; JRAS, 1910, pp. 752, 754. 
+2 See the table given in I, 10 of the differences between the sines. Twenty-four sines 
+taken at intervals of 225 minutes of arc are regu­larly given in 
+the Indian tables. 
+3 Note the methods suggested by Kaye and Rodet and cf. JIMS, 
+XV (1923-24), 122 and 108-9 of "Notes and Questions." 
+Downloaded from https://www.holybooks.comGA~ITAPADA OR MATHEl\.'.IATICS 29 
+12. By what number the second sine is less than the first sine, 
+and by the quotient obtained by dividing the sum of the 
+preceding sines by the first sine, by the sum of these two quanti­ties 
+the follo'\'\ing sines are less than the first sine. 
+The last phrase may be translated "the sine­differences are less 
+than the first sine." 1 
+This rule describes how the table of sine-differ­ences given in 
+I, 10 may be calculated from the first one (225). 
+The first sine n1eans always this first sine 225. 
+The second sine means any particular sine with which one is working 
+in order to calculate the follow­
+ing sme. Subtract 225 from 225 
+and the remainder is 0. Di­vide 225 
+by 225 and the quotient is 1. The sum of O and 
+1 is subtracted from 225 to obtain the second sine 224. 
+Subtract 224 from 225 and the remainder is 1. 
+Divide 225 plus 224 by 225 and the nearest quotient is 2. Add 2 and 
+1 and subtract from 225. The third 
+sine will be 222. Proceed in like manner for the fol­lowing sines. 
+If this method is followed strictly there results several slight divergences from 
+the values given in I, 
+10. It is possible to reconcile most of these by assum­ing, as Krishnaswam.i Ayyangar does, 
+that from time 
+to time the neglected fractions were distributed among 
+the sines. But of this there is no indication in 
+the rule as given. 
+1 For discussion of the Indian sines see the notes of Rodet and 
+Kaye; Pafi(;(J,81,d,dhantika, chap. iv; Suryasiddhanta, II, 15-27; Lalla, 
+p. 12; Brahmagupta, II, 2-10; JRAS, 1910, pp. 752, 754; IA, XX, 
+228; Brennand, Hindu Astronomy, pp. 210-13; JIMS, XV (1923-24), 121-26, with attempted explanation of 
+the variation of several of 
+the values given in the table from the values calculated by means of this rule, and 
+i"bid., pp. 105-13 of "Notes and Questions." 
+Downloaded from https://www.holybooks.com30 ARYABHATiYA 
+How Kaye gets "If the first and second be bisected in succession the sine 
+of the half-chord is obtained" 
+is a puzzle to me. It is impossible as a translation 
+of the Sanskrit. 
+13. The circle is made by turning, and the triangle and the quadrilateral by means 
+of a karrJ,a; the horizontal is determined 
+by water, and the perpendicular by the plumb-line. 
+TribhuJ°a denotes triangle in general and catur­
+bhuja denotes quadrilateral in general. The word 
+, karr;,a regularly denotes the hypotenuse of a right­angle triangle and the diagonal 
+of a square or rec­tangle. I am not sure whether the restricted sense 
+of 
+karr;,a limits iribhuja and caturbhuja to the right-angle triangle and to the square and rectangle or whether the general sense 
+of tribhuja and caturbhuja general­izes the meaning 
+of karr;,a to that of one chosen side of 
+a triangle and to that of the diagonal of any quadri­lateral. 
+At any rate, the context shows that the rule deals with the actual construction 
+of plane figures. Paramesvara interprets 
+it as ref erring to the con­struction 
+of a triangle of which the three sides are known and 
+of a quadrilateral of which the four sides and one diagonal are known. One side 
+of the triangle is taken as the 
+karr;,a. Two sticks of the length of the other two sides, one touching one end and the other the other end 
+of the karr;,a, are brought to such a posi­tion 
+that their tips join. The quadrilateral is made 
+by constructing two triangles, one on each side of the diagonal. 
+Downloaded from https://www.holybooks.comGA~ITAPADA OR l\1ATHElVIATICS 31 
+The circle is made by the turning of the ka·rkata, 
+or compass. 1 
+14. Add the square of the height of the gnomon to the square 
+of its shadow. The square root of this sum is the radius of the 
+khai:rtta. 
+The text reads khavrtta ("sky-circle"). Para­
+mesvara reads svai:rtta ("its circle"). I do not know which 
+is correct. Kaye remarks 
+that in order "to mark out the hour angles on an ordinary sun-dial, 
+it is necessary to. 
+describe two circles, one of which has its radius equal to the vertical gnomon and the other with radius equal to the hypotenuse 
+of the triangle formed by the equinoctial shadow and the gnomon." 
+It may be tha~ 
+this second circle is the one ref erred to here. Para­
+mesvara has chayagramadhyam sankusira~prapi yan 
+marpJ,al,am urdhvadha"IJ,sthitam tat svavrttam ity ucyate, 
+"the circle which has its centre at the extremity of 
+the shadow and which touches the top of the gnomon 
+is called the svavrtta." As Rodet remarks, it is diffi­
+cult to see for what purpose such a circle could serve. 
+15. Multiply the length of the gnomon by the distance be­tween the gnomon and the 
+bhuja and divide by the difference between the length of 
+the gnomon and the length of the bhuja. 
+The quotient will be the length of the shadow measured from the base of the gnomon. 
+2 
+1 For parallels to the stanza see Lalla (Yantradhyaya, 2) and Brahm.agupta, 
+XXII, 7. See BCMS, XVIII (1927), 68-69, which is 
+too emphatic in its assertion that kaT'IJ,G, must mean "diagonal" and not "hypotenuse." 
+2 See Brahmagupta, XII, 53; Colebrooke, op. cit., p. 317; 
+Brennand, op. cit., p. 166. 
+Downloaded from https://www.holybooks.com32 ARYABHATlYA 
+Because of the use of the word kofi in the following rule Rodet 
+is inclined to think that the gnomon and the 
+bhuja were not perpendicular but projected hori­zontally from a wall. 
+Bhuja denotes any side of a triangle, 
+but kofi usually refers to an upright. It is 
+possible, however, for k9ti to denote any perpendicu­lar to the 
+bhuja whether horizontal or upright. 
+A 
+B~---~D~--------~C 
+BA is the bhuja which holds the light, 
+DE is the gnomon, 
+DC DEXBD 
+AF 
+16. The distance between the ends of the two shadows multi­plied by the length of the shadow and divided 
+by the difference in length 
+of the two shadows gives the kofi. The koti multiplied 
+by the length of the gnomon and divided by the length of the shadow gives the length 
+of the bhuja. 
+The literal translation of chayagutJ,itarh chaya­
+gravivaram unena bhajiUi kofi seems to be "The dis­tance between 
+the ends of the two shadows multiplied 
+by the length of the shadow is equal to the kofi 
+divided by the difference in length of the two shad­ows." This is equivalent to 
+the translation given above. 
+Downloaded from https://www.holybooks.comGA~ITAP.~DA OR :MATHEMATICS 33 
+AB is the bh u}a, 
+AE is the koti, 
+CD is the gnomon in its first position, 
+C;D; is the gnomon in its second position, 
+CE and C' E' are the first and second shadows, 
+CEXEE' 
+AE=C'E'-CE' 
+AB AEXCD 
+GE . 
+The length of the bhuja which holds the light and the distance between the end 
+of the shadow and the base 
+of the bhuja are unknown. In order to find them 
+the gnomon is placed in another position so as to give a second shadow. The length 
+of the shadow is its length when the 
+gnomon is in its first position. The kofi is the dis­tance between the end of 
+the shadow when the gno­mon is 
+in its first position and the base of the bhuja. 
+The word kot'i means perpendicular (or upright) and 
+the rule might be interpreted, as Rodet takes it, as meaning 
+that the bhuja and the gnomon extend horizontally from a perpendicular wall. 
+But the 
+words bhuja and kofi, also refer to the sides of a right­angle triangle without much regard as to which is horizontal and which is upright. 
+Downloaded from https://www.holybooks.com34 ARYABHA TlYA 
+Or the first position of the gnomon may be C' D' 
+and the second CD. To find AE' and AB.1 
+17. The square of the bhuja plus the square of the kofi, is the square of the 
+kar?J,a. 
+In a circle the product of two saras is the square of the half­chord 
+of the two arcs. 
+The bhuja ttnd ko{i are the sides of a right-angle triangle. The 
+karr.ia is the hypotenuse. The 
+saras or "arrows" are the segments of a diameter which bisects any chord. 
+2 • 
+b 
+aXb=c 2 
+a ·where c is the half-chord. 
+18. (The diameters of) two circles (separately) minus the 
+grasa, multiplied by the grasa, and divided separately by the sum 
+of (the diameters of) the two circles after the grasa has been sub­tracted from each, 
+will give respectively the sampatasaras of the two circles. 
+When two circles intersect the word grasa ("the bite") denotes 
+that part of the common diameter of 
+the two circles which is cut off by the ip.tersecting 
+_<;l:i.ord~ of the two circles. 
+1 See Brahmagupta, XII, 54; Colebrooke, op. cit., p. 318; Bren­nand, 
+op. cit., p. 166. 
+2 Cf. Brahmagupta, XII, 41. See BCMS, XVIII (1927), 11, 71, 
+with discussion of the quotation given by Colebrooke, op. cit., p. 309, 
+from Prthu.dakasvami's commentary to Brahmagupta. 
+Downloaded from https://www.holybooks.comGA~ITAPADA OR MATHElvIATICS 35 
+B AB is the grasa, 
+AE and BE are the 
+sampatasarm;. 
+AE=AB(d-A.B) EB=AB(D-AB) 
+• D+d-2A.B' D+d-2AB ' 
+where d and D are the diameters of the two circles. 
+The sampatasaras are the two distances (within the 
+grasa), on the common diameter, from the cir­cumferences 
+of the two circles to the point of inter­section 
+of this common diameter with the chord con­necting 
+the two points where the circumferences intersect.
+1 
+19. The desired number of terms minus one, halved, plus the number 
+of terms which precedes, multiplied by the common difference between the terms, plus the first term, 
+is the middle term. This multiplied 
+by the number of terms desired is the sum of 
+the desired number of terms. Or the sum 
+of the first and last terms is multiplied by half the 
+number of terms. 
+This rule tells how to find the sum of any desired number 
+of terms taken anywhere within an arith­metical progression. 
+Let n be the number of terms extending from the 
+(p+l)th to the (p+n)th terms in an arithmetical progression, let 
+d be the common difference between the terms, let 
+a be the first term 
+of the progression, and Z the last term. 
+1 Cf. Brahmagupta, XII, 43; Colebrooke, op. cit., p. 311. 
+Downloaded from https://www.holybooks.com36 ARYABHATIYA 
+The second part of the rule applies only to the sum of the whole progression beginning with the first term. 
+S (a+l)n 
+2 . 
+As Paramesvara says, samukhamadhyam must be taken as equivalent 
+to samukharh madhyam. 
+Whether Paramesvara is correct in his statement 
+bahusutrarthapradarsakam etat sutram. ato bahudha yojana 
+karya and subsequent exposition seems very doubtful. Brahmagupta, 
+XII, 17 has only the second part of 
+the rule.1 
+20. Multiply the sum of the progression by eight times the common difference, 
+add the square of the difference between twice 
+the first term and the common difference, take the square root of 
+this, subtract twice the first term, divide by the common differ­ence, add one, divide 
+by two. The result will be the number of 
+terms. 
+n=~[-V8dS+(dd-2a)2-2a +l] _2 
+As Rodet says, the development of this formula from the one in 
+the preceding rule seems to indicate knowledge 
+of the solution of quadratic equations in 
+the form ax2+bx+c= 0.3 
+1 Cf. Colebrooke, op. cit., p. 290. 
+2 See Brahmagupta, XII, 18; Colebrooke, op. cit., p. 291. 
+3 See also JA (1878), I, 28, 77, and JBORS, XII, 86-87. 
+Downloaded from https://www.holybooks.comGA:r:HTAPADA OR :MATHEMATICS 37 
+21. In the case of an ·upaciti which has one for the first term and one for the common difference between the terms 
+the product 
+of three terms having the number of terms for the first term and 
+one as the common difference, divided by six, is the citiglwna. Or the cube 
+of the number of terms plus one, minus the cube root of 
+this cube, divided by six. 
+Form an arithmetical progression 1 2 3 4 5, etc. Form the series 1 3 6 
+10 15, etc., by taking for the 
+terms the sum of the terms of the first series. The 
+rule gives the sum of this series. 
+It also gives the cubic contents of a pile of balls which has a triangular base. 
+The wording of the rule would seem to imply 
+that it was intended especially for this second case. 
+Citighana means "cubic con­tents 
+of the pile," and upaciti ("pile") refers to the 
+base (or one side) of the pile, i.e., 1 2 3 4 5, etc.1 
+As Rodet remarks, it is curious that in the face of this rule 
+the rule given above (stanza 6) for the volume of a pyramid 
+is incorrect. 
+S=n(n+l)(n+2) 
+6 or 
+22. The sixth part of the product of three quantities con­sisting 
+of the number of terms, the number of terms plus one, and twice the number of terms plus one is 
+the sum of the squares. 
+The square of the sum of the (original) series is the sum of the 
+cubes. 
+From the series 1 2 3 4, etc., form the series 1 4 9 
+16, etc., and 1 8 27 64, etc., consisting of the 
+1 Cf. Brahmagupta, XII, 19; Colebrooke, op. cit., pp. 292-93. Brahmagupta (XII, 20) directs 
+that the summation of certain series be illustrated 
+by means of piles of round balls. 
+Downloaded from https://www.holybooks.com38 ARYABHA TIYA 
+squares and cubes of the terms of the first series. The 
+rule tells how to find the sums of the second and 
+third series. 1 
+The rule for finding the sum of the first series was given above in stanza 19. 
+The sum of the squares is 
+n(n+1)(2n+l) 
+6 
+23. One should subtract the sum of the squares of two factors from the square 
+of their sum. Half the result is the product of 
+the two factors. 
+24. Multiply the product (of two factors) by the square of 
+two ( 4), add the square of the difference between the two factors, take the square root, add and subtract the difference between the two factors, and divide the result by two. The results will be the 
+two factors. 
+V 4ab+(a-b)2± (a-b) .11 . d b 
+2 Wl give a an . 
+25. Multiply the sum of the interest on the principal and the interest on this interest 
+by the time and by the principal. Add to this result the square of half the principal. Take the square root 
+of this. Subtract half the principal and divide the remainder by the time. The result 
+will be the interest on the principal.
+2 
+1 Cf. Brahmagupta, XII, 20; Colebrooke, op. cit., p. 293; BCMS, 
+XVIII (1927), 70. 
+2 Cf. the somewhat similar problem in Brahmagupta, XII, 15; Colebrooke, 
+op. cit., pp. 287-28, and see the discussion of Kaye. 
+Downloaded from https://www.holybooks.comGAijITAPIDA OR ?v1ATHElv1ATICS 39 
+The formula involves the solution of a quadratic 
+equation in the form of ax2+ 2bx = c.1 
+A sum of money is loaned. A.f ter a certain unit of time 
+the interest received is loaned for a known num­
+ber of units of time at the same interest. What is known is 
+the amount of the interest on the principal plus 
+the interest on this interest. Call this B. Let the 
+principal be A. Let t be the time. 
+✓ A)2 A BXA.Xt+( 2 -2 
+x= t . 
+The following example is given by Paramesvara. 
+The sum of 100 is loaned for one month. Then the 
+interest received is loaned for six months. At that 
+time the original interest plus the interest on this 
+interest amounts to 16. 
+B=l6 
+A=lOO 
+t=6 
+The interest received on 100 in one month was 10. 
+26. In the rule of three multiply the fruit by the desire and divide 
+by the measure. The result will be the fruit of the desire. 
+The rule of three corresponds to proportion. 
+In the proportion a is to b as c is to x the measure is 
+a, the fruit is b, the desire is c, and the fruit of the 
+desire is x. 
+1 See JBORS, XII, 87. be 2 x=-. a 
+2 See Brahmagupta, XII, 10 and Colebrooke, op. eit., p. 283. 
+Downloaded from https://www.holybooks.com40 IRYABHATIYA 
+27. The denominators of multipliers and divisors are multi­plied together. 
+).Iultiply numerators and denominators by the other denominators in order 
+to reduce fractions to a common denominator. 
+For the first part of the rule I have given what seems to be 
+the most likely literal translation. The 
+exact sense is uncertain. Kaye (agreeing with Rodet) translates, 
+"The denominators are multiplied by one another in multiplication and division." 
+If that is the 
+correct translation the genitive plural is curious. Paramesvara explains 
+gur:iakara as gur:iagur:iyayor 
+ahatir atra guriakarasabdena vivak?ita. harya ity artha"!J, 
+and then seems to take bhagahara as ref erring to a fractional divisor of this product. 
+Can the words bear 
+that construction? In either case the inversion of numerator 
+and denominator of the divisor would be 
+taken for granted. 
+It is tempting to take gur:iakarabhagahara as mean­ing "fraction" 
+and to translate, "The denominators 
+of fractions are multiplied together." But for that 
+interpretation I can find no authority. 
+28. Multipliers become divisors and divisors become multi­pliers, addition becomes subtraction and subtraction becomes addition in the inverse method. 
+The inverse method consists in beginning at the 
+end and working backward. As, for instance, in the 
+question, "What number multiplied by 3, divided by 
+5, plus 6, minus 1, will give 5?" 
+29. If you know the results obtained by subtracting suc­cessively from a sum 
+of quantities each one of these quantities set these results down separately. Add 
+them all together and divide 
+by the number of terms less one. The result will be the sum 
+of all the quantities. 
+Downloaded from https://www.holybooks.comGA~ITAPADA OR :vIATHEl\1ATICS 41 
+The translation given by Kaye is incorrect. The 
+rev"ised translation given in his Indian .Jf athematics, 
+page 4 7, is not an improvement. 1 
+x-d=a+b+c 
+x-a=b+c+d 
+x-b=a+c+d 
+x-c=a+b+d According to the rule 3a+3b+3c+3d 
+divided by 3 gives x=a+b+c+d 
+since 4x=4a+4b+4c+4d. 
+30. One should di·dde the difference between the pieces of money possessed 
+by two men by the difference between the ob­jects possessed 
+by them. The quotient will be the value of one of the objects 
+if the wealth of the two men is equal. 
+Two men possess each a certain number of pieces 
+of money (such as rupees) and a certain number of 
+objects of merchandise (such as cows). 
+Let a and b be the number of rupees possessed by 
+two men, and let m and p be the number of cows possessed 
+by them. 
+b-a x=-- since mx+a=px+b. m-p 
+If one man has 100 rupees and 6 cows and the 
+other man has 60 rupees and 8 cows the value of a cow is 20 rupees provided 
+the wealth of the two men 
+is equal. 
+31. The two distances between two planets moving in eippo­
+site directions is divided by the sum of their daily motions. The 
+two distances between two planets moving in the same direction is divided 
+by the difference of their daily motions. The two results (in each case) 
+will give the time of meeting of the two in the past and in the future. 
+1 Cf. JBORS, XII, 88-90. 
+Downloaded from https://www.holybooks.com42 ARYABHATIYA 
+In each case there will be two distances between 
+the planets, namely, that between the one which is behind 
+and the one which is ahead, and, measuring in 
+the same direction, the distance between the one which is ahead 
+and the one which is behind. This seems to be 
+the only adequate interpretation of the 
+word dve. The translations of Rodet and Kaye fail to do full justice 
+to the word dve.1 
+The next two stanzas give a method for the solu­tion 
+of indeterminate equations of the first degree; 
+but no help for the interpretation of the process in­tended, which is only sketchily presented 
+in Arya­bhata, 
+is to be found in Mahavira, Bhaskara, or the 
+second Aryabhata. The closest parallel is found in 
+Brahmagupta, XVIII, 3-5.2 The verbal expression is very similar to 
+that of Aryabhata, but with one im­
+portant exception. In place of the enigmatic state­
+ment matigurJ,am agrantare k~iptam, "(The last re­mainder) is multiplied 
+by an assumed number and 
+added to the difference between the agras," Brahma­
+gupta has, "The residue ( of the reciprocal division) is multiplied 
+by an assumed number such that the 
+product having added to it the difference of the 
+remainders may be exactly divisible (by the residue's divisor). 
+That multiplier is to be set down ( under­neath) and 
+the quotient last." It is possible that this 
+sam~ process is to be understood in Aryabhata. 
+1 Cf. Paramesvara, dve iti vacanam antarasya dvaividhyat. 
+sighragatihino mandagatir antararh bhavati. mandagatihinas sighragatis cantararh 
+bhavati. iti dvaividhyam and his further interpretation of the 
+results. 
+Cf. Brahmagupta, IX, 5-6 and Bhaskara, Ga1;iitadhyaya, Gra­
+hayutyadhikara, 3--4, and Vasanab~ya, and see JA. (1878), I, 28. 
+2 Colebrooke, op. cit., p. 325. 
+Downloaded from https://www.holybooks.comGA~ITAPADA OR MATHEMATICS 43 
+First I shall explain the stanza on the basis of 
+Param.esvara's interpretation and of Brahmagupta's 
+method: 
+32-33. Di'vide the divisor which giYes the greater agra by the 
+divisor which gives the smaller agra. The remainder is reciprocal­
+ly dfrided (that is to say, the remainder becomes the divisor of 
+the original divisor, and the remainder of this second division becomes 
+the divisor of the i:econd di\isor, etc.). (The quotients are placed below each other in 
+the so-called chain.) (The last remainder) is multiplied 
+by an assumed number and added to the 
+difference between the agras. Multiply the penultimate number 
+by the number above it and add the number which is below it. 
+(Continue this process to the top of the chain.) Divide (the top 
+number) by the divisor which gives the smaller agra. Multiply 
+the remainder by the divisor which gives the greater agra. Add this product 
+to the greater agra. The result is the number which will satisfy 
+both di·d.sors and both agras. 
+In this the sentence, '' (The last remainder) is multiplied 
+by an assumed number and added to the 
+difference between the agras," is to be understood as equivalent 
+to the quotation from Brahmagupta given above. 
+The word agra denotes the remainders which con­
+stitute the provisional values of x, that is to say, values one 
+of which will satisfy one condition, one of which 
+will satisfy the second condition of the prob­lem. 
+The word di.icchedagra denotes the value of x 
+which will satisfy both conditions. 
+I cannot agree with the translation given by Kaye 
+(and followed by Mazumdar, BClYJS, III, 11) or accept 
+the method given by Kaye. Kaye's transla­tion of 
+matigurJ,am agrantare k~ipt,am, "An assumed number together with 
+the original difference is thrown 
+in," is an impossible translation, and any method 
+Downloaded from https://www.holybooks.com44 IRYABHA TIY A 
+based on that translation is bound to be incorrect. It 
+omits altogether the important word gur:iam (".multi­plied"). Since 
+the preceding phrase dealt with the 
+remainders of the reciprocal division, the natural 
+word to supply with matigu1J,am seems to be se?am 
+("remainder"). Something has to be supplied, and 
+Brahmagupta's method offers a possible interpreta­
+tion. A second possible interpretation, which ~rill be 
+given below, would supply "quotient" instead of ''remainder.'' 
+The following example is given by Paramesvara. 
+Sx · · d f 4 17 x · · d f 7 29 gives a remam er o · 45 gives a remam er o . 
+. Sx-4 17x-7 These are eqmvalent to 29 =y and 45 =z or 8x-
+29y=4 and 17x-45z=7 
+where y and z are the quotients of the division (y and z to be whole numbers). 
+I. First process. To find a value of x which will satisfy the first equation: 
+8)29(3 
+24 
+5)8(1 
+5 
+3)5(1 
+3 
+2)3(1 
+2 
+1 
+Take an assumed number such that multiplied by 
+1 (the last remainder of the reciprocal division) and 
+Downloaded from https://www.holybooks.comGA~ITAPADA OR 1IATHE::.\'1ATICS 45 
+plus or minus 4 (the original remainder) it "rj]J be exactly divisible 
+by 2 ( the last divisor of the recip­rocal division). 
+· 6-4 6 1s taken because -2 = 1. 
+Therefore 6 and 1 are to be added to the quotients to form 
+the chain. 
+3 73 29)73(2 
+58 15 1 20 
+1 13 
+1 7 This remainder 15 is the agra, that is to say, a value of x 
+which will satisfy the equation. 6 
+1 
+2. Second process. To find a value of x which ·will satisfy the 
+second equation: 17)45(2 34 11)17(1 
+11 
+6)11(1 
+6 
+5)6(1 
+5 
+1 
+Take an assumed number such that multiplied 
+by 1 (the last remainder of the reciprocal division) 
+and plus or minus 7 (the original remainder) it will be 
+exactly divisible by 5 ( the last divisor of the reciprocal division). 
+3+7 3 is taken because 5 = 2. 
+Downloaded from https://www.holybooks.com46 IRYABHATIYA 
+Therefore 3 and 2 are to be added to the quotients to 
+form the chain. 
+2 34 34)45(1 
+1 13 34 
+1 8 
+1 5 11 
+3 This remainder 11 is the agra, that is to say, a value of x 
+2 which will satisfy the equation. 
+These numbers 15 and 11 are the agras mentioned 
+at the beginning of the rule. The corresponding divisors are 
+29 and 45. The difference between the 
+agras is 4, i.e., 15-11. 
+3. Third process. To find a value of x which ·will satisfy both 
+equations: 29)45(1 
+29 
+16)29(1 
+16 13)16(1 
+13 
+3)13(4 
+12 
+1 
+Take an assumed number such that multiplied by 
+1 (the last remainder of the reciprocal division) and plus or minus 4 (the difference between 
+the agras) it 
+will be exactly divisible by 3 (the last divisor of the 
+reciprocal division). 
+2 is taken because 214 = 2. 
+Downloaded from https://www.holybooks.comGA~ITAPIDA OR ~IATHEl\IATICS 47 
+Therefore 2 and 2 are to be added to the quotients 
+to form the chain. 
+45)34(0 
+0 
+34 1 34 
+1 22 
+1 12 
+4 10 
+2 Therefore 34 is the remainder. 
+2 
+Then in accordance -with the rule 34X29=986 
+and 986+15=1001 
+This number 1001 is the smallest number which will satisfy 
+both equations. Strictly speaking, 
+the rule applies only to the third 
+process given above. The solution of the single inde­terminate equation is 
+taken for granted and is not 
+given in full. There is nothing to indicate how far 
+the reciprocal division was to be carried. 1\iiust it be carried 
+to the point where the last remainder is 1? 
+Must the number of quotients taken to make the 
+chain be even in number? On page 50 of 
+Kern's edition a 1 has been omitted 
+by mistake (twice) as the fourth member of the chains 
+given. 
+The following method was partially worked out by 
+1\1azumdar, 1 who was misled in some details by fol­lowing 
+Kaye's translation, and by Sen Gupta,2 and 
+fully worked out by Sarada Kanta Ganguly .3 
+1 BCMS, III, 11-19. 
+2 Journal of the Department of Letters (Calcutta University), XVI, 
+27-30. 
+3 BCMS, XIX (1928), 170-76. 
+Downloaded from https://www.holybooks.com48 ARYABHA T!YA 
+According to Ganguly's interpretation, the trans­lation would be: 
+32-33. Divide the divisor corresponding to the greater re­mainder 
+by the divisor corresponding to the smaller remainder. The remainder 
+(and the divisor) are reciprocally divided. (This process 
+is continued until the last remainder is 0.) (The quotients are placed below 
+ea.eh other in the so-called chain.) Multiply any assumed number 
+by the last quotient of the reciprocal division and add 
+it to the di:ff erence between the two remainders. (Interpreted as meaning 
+that this product and this difference are 
+placed in the chain beneath the quotients.) Multiply the penulti­mate number 
+by the number above it and add the number which is below it. (Continue this process 
+to the top of the chain.) 
+Dhide (the lower of the two top numbers) by the divisor cor­responding 
+to the smaller remainder. Multiply the remainder 
+by the divisor corresponding to the greater remainder. Add the product 
+to the greater remainder. The result is the (least number) which will satisfy the two divisors and 
+the two re­mainders. 
+He remarks: 
+The implication is that the least number satisfying the given conditions can also be obtained 
+by multiplying the remainder, obtained as the result 
+of division of the upper number by the divisor corresponding 
+to the greater given remainder, by the divisor corresponding to the smaller given remainder and then adding the smaller remainder 
+to the product. 
+From this point of view the problem would be 
+that of finding a number which will leave given remainders when divided 
+by given positive integers. For example, to take a simple case: What num­ber divided 
+by 3 and 7 will leave as remainders 2 and 
+1? 
+Following the rule literally, even though a smaller 
+Downloaded from https://www.holybooks.comGA~ITA.P.ADA OR rvIATHEMATICS 49 
+number has to be divided by a larger number we get the 
+following: 
+7)3(0 
+0 
+3)7(2 
+6 
+1)3(3 3 
+0 
+l\1ultiply the last quotient (3) by an assumed number (for instance, 
+3) and set this product and the difference between the remainders 2 and 
+1, i.e., (1) 
+down below the quotients to form the chain. 
+0 28 
+2 65 
+3 28 
+9 
+1 
+or 7)65(9 
+63 
+2 
+Then 2X3=6 and 6+2=8. 
+3)28(9 
+27 
+1 
+Then 1X7=7 and 7+1=8. 
+Therefore 8 is the number desired. 
+The two methods attach different significations to the word 
+agra and supply different words with bhajite 
+in the third line ("remainder," in one case; "quo­tient," 
+in the other). They differ fundamentally in 
+their interpretations of the words matigu't},am agra-
+Downloaded from https://www.holybooks.com50 A.RYABHA TlYA 
+ntare k?iptam. In the first method it is necessary to 
+supply much to fill out the meaning, but the transla­
+tion of these words themselves is a more natural one. 
+In the second method it is not necessary to supply 
+anything except "quotient" with matigu?J,am (in the 
+first method it is necessary to supply "remainder"). 
+But if the intention was that of stating that the 
+product of the quotient and an assumed number, and 
+the difference between the remainders, are to be 
+added below the quotients to form a chain the 
+thought is expressed in a very curious way. Ganguly 
+finds justification for this interpretation (p. 172) in 
+his formulas, but I cannot help feeling that the San­
+skrit is stretched in order to make it fit the formula. 
+The general method of solution by reciprocal 
+division and formation of a chain is clear, but some 
+of the details are uncertain and we do not know to 
+what sort of problems .Aryabhata applied it. 
+Downloaded from https://www.holybooks.comCHAPTER III 
+KALAKRIY A OR THE RECKONI~G 
+OF TI~1E 
+1. A year consists of twelve months. A month consists of 
+thirty days. A day consists of sixty naiJ,Is. A nai/l consists of 
+si:dy vinacJ.,ikas. 1 
+2. Sixty long letters or six prci1J,as make a sidereal rinacjika. 
+This is the division of time. In like manner the di,ision of space beginning 
+with a revolution. 2 
+3. The difference between the number of revolutions of two 
+planets in a yuga is the number of their conjunctions. 
+Twice the sum of the revolutions of the Sun and ~.Ioon is the number 
+of vyat'ipiltas. 3 
+This is a yoga of the Sun and l\foon when they are in different 
+ayanas, have the same declination, and the sum 
+of their longitudes is 180 degrees. 
+4. The difference between the number of revolutions of a 
+planet and the number of revolutions of its ucca. is the number of 
+reYolutions of its epicycle. The number 
+of revolutions of Jupiter multiplied by 12 are the years of Jupiter beginning 
+·with A§yayuja. 4 
+1 Cf. Suryasiddhanta, I, 11-13; Alberuni, I, 335; Bbatt,otpala, p. 
+24. 
+2 Cf. Suryasiddhanta, I, 11, 28; Bhattotpala, p. 24; Paifoasi­
+ddhantika, XIV, 32, for the first part of 2; Brahmagupta, I, 5-6, and 
+Bhaskara, Gattitadhaya, Kalamanadhyaya, 16-18, for both stanzas. 
+3 See Lalla, Jfadhyamadhikara, 11; Brahmagupta, XIII, 42, for 
+the first part. For vyati.'[)ti,ta see Su.ryas'iddhanta, XI, 2; Pan-easi­
+ddhantika, III, 22; Lalla, Mahapatadhikara, 1; Brahmagupta, XIV, 
+37, 39. 
+4 For the first part see Lalla, J.1fodhyamadhikara, 11; Brahma­
+gupta, XIII, 42; Bhaskara, Gattitadhyaya, Bhaga~iadhyaya, 14. For 
+the second part see JRAS, 1863, p. 378; ibid., 1865, p. 404; 
+Suryasiddhanta, I, 55; Bhattotpala, p. 182. 
+51 
+Downloaded from https://www.holybooks.com52 XRYABHATIYA 
+The word ucca refers both to mandocca ("apsis") 
+and sighrocca ("conjunction"). 
+Paramesvara explains that the number of revolu­tions 
+of the epicycle of the apsis of the l\f oon is equal to the difference 
+behveen the number of revolutions 
+of the Moon and the revolutions of its apsis; that since 
+the apsides of the six others are stationary, the number 
+of revolutions of the epicycles of their apsides is equal to 
+the number of revolutions of, the planets; 
+and that the number of revolutions of the epicycles 
+of the conjunctions of J\ifercury, Venus, J\,:Iars, 
+Jupiter, and Saturn is equal to the difference between 
+the revolutions of the planets and the revolutions of their conjunctions. As pointed 
+out in the note to I, 7, the apsides were 
+not regarded by Aryabhata as being stationary in the 
+absolute sense. They were regarded by him as sta­
+tionary for purposes of calculation at the time when his treatise was composed since their movements were very slow. 
+5. The revolutions of the Sun are solar years. The conjunc­tions 
+of the Sun and Moon are lunar months. The conjunctions of the Sun and the 
+Earth are [civil] days. The revolutions of the asterisms are sidereal days. 
+The word yoga applied to the Sun and the Earth 
+(instead of bhaga1J,a or avarta) seems clearly to indi­cate 
+that Aryabhata believed in a rotation of the 
+Earth (see IV, 48). Paramesvara's explanation, ravi­
+bhuyogasabdena raver bhuparibhrama7J,am abhihitam, 
+seems to be impossible. 
+6. Subtract the solar months in a yuga from the lunar months in a 
+yuga. The result will be the number of intercalary months in 
+Downloaded from https://www.holybooks.comK..lLAKRIY.A OR THE RECKONING OF TIME 53 
+a yuga. Subtract the natural [ci,il] days in a yuga from the lunar 
+days in a yuga. The result will be the number of omitted lunar 
+days in a yuga.1 
+7. A solar year is a year of men. Thirty of these make a year 
+of the Fathers. Twelve years of the Fathers make a year of the 
+gods. 8. Twelve thousand years 
+of the gods make a yuga of all the 
+planets. A thousand and eight yugas of the planets make a day 
+of Brahman. 2• 
+9. The first half of a yuga is called utsarpi1J,i [ascending]. The 
+latter half is called avasarpi1J,i [descending]. The middle part of a 
+yuga is called su~ama. The beginning and the end are called 
+duij~ama. Because of the apsis of the :\ifoon. 
+Alberuni (I, 370-71) remarks: 
+.A.ryabhata of Kusumapura, who belongs to the school of the 
+elder Aryabhata, says in a small book of his on A.l-ntj (?), that 
+"1,008 caturyugas are one day of Brahman. The first half of 504 
+caturyiUJaS is called idsarpi1J,i, during which the sun is ascending, 
+and the second half is called avasarpitzi, during which the sun is descending. 
+The midst of this period is called sama, i.e., equality, for 
+it is the midst of the day, and the two ends are called durtama 
+(?). 
+"This is so far correct, as the comparison between day and 
+kalpa goes, but the remark about the sun's ascending and 
+descending is not correct. If he meant the sun who makes our day, 
+it was his duty to explain of what kind that ascending and 
+descending of the sun is; but if he meant a sun who specially be­longs 
+to the day of Brahman, it was his duty to show or to 
+describe him to us. I almost think that the author meant by these two expressions 
+the progressive, increasing development of things during 
+the first half of this period, and the retrograde, decreasing development 
+in the second half.'' 
+1 Of. Suryasiddhanta, I, 35-36; Lalla, Madhyamiidhikara, 10; 
+Brahmagupta, I, 24 and XIII, 26. 
+2 Of. SuryasiddM.nta, I, 13-15; I, 20. Brahmagupta (I, 12) criticizes 
+Aryabhata's figure of 1,008 yugas instead of 1,000 yugas. Cf. 
+JRAS, 1865, p. 400. Cf. also I, 3 and see JRAS, 1911, p. 486. 
+Downloaded from https://www.holybooks.com54 .~RYABHATIYA 
+The reference is to the foregoing stanza. The mid­dle of the 
+yuga seems to be called suf}ama e'even") 
+because good and bad are evenly mixed. The begin­ning and the end are called 
+du[![Jama ("1n1even") be­cause 
+in one case goodness and in the other case badness predominates. Paramesvara remarks 
+that the vyakhyakara has given no explanation. 
+Then he quotes from the 
+Bhat.aprakasika a statement to the effect that our text refers to the increase and decrease of men's lives in the course of a 
+yuga and a criticism (asyartho 
+'bhiyuktair nirupya vakta1JyalJ,) of the last phrase of the stanza. He 
+then continues by saying that he does not see what meaning can be intended 
+by the word 
+induccat, and adds that the word has nothing to do with the 
+matter under discussion, has no significance for the calculation of 
+the places of the planets. Then he adds two forced explanations. 
+The meaning of 
+induccat is quite uncertain. Sudhakara 
+(Ga?J,akatarangirfi,, p. 7) suggests the 
+emendation to agnyarhsat. 
+The terminology is distinctively J aina.1 
+10. When three yugapad.as and sixty times sixty years had elapsed 
+(from the beginning of the yuga) then twenty-three years 
+of my life had passed. 2 
+If Aryabhata began the Kaliyuga at 3102 B.c. as later astronomers did, and if his fourth 
+yugapada 
+1 See Hemacandra, Abhidhanacintamar.ii, 128--35; Glasenapp, 
+Der Jainismus, pp. 244-45; Kirfel, Kosmographie, p. 339; ZDMG, 
+LX, 320-21; Stevenson, The Heart of Jainism, pp. 212 ff. See also 
+Hardy, Manual, of Bud.dhism, p. 7. 
+2 See JRAS, 1863, p. 387; ibid., 1865, p. 405; Kern, Brhat 
+Samhito,, Preface, p. 57; JRA.S, 1911, pp. 111-12. 
+Downloaded from https://www.holybooks.comKALAKRIYA OR THE RECKONING OF TE\1E 55 
+began with the beginning of the Kaliyuga, we arrive 
+at th~ date 499 A.D. It is natural to take this as the 
+date of composition of the treatise. Paramesvara quotes 
+the Prakasikakara to the e:ff ect that this is to be 
+taken as the date at which the calculations of the 
+true places of the planets made by it would be correct, 
+and that for later times a correction would have to be made. 
+The word iha may mean "here" or "now." 
+Param.esvara takes it as referring to this present twenty-eighth 
+caturyuga. 
+11. The yuga, the year, the month, and the day began all together 
+at the beginning of the bright fortnight of Caitra. Time, which has no beginning and no 
+end, is measured by (the move­
+ments of) the planets and the asterisms on the sphere. 
+Bhau Daji1 first pointed out the criticism made 
+of this stanza by Brahmagupta (XI, 6): 
+yugavaf$adin vadata caitrasitade];). samam pra,rrttan yatl 
+tad asad yata];). sphutayugari:J. tat sthairyan mandapatanam.!I 
+Compare Brahmagupta, I, 4, and Bhaskara, Ga1J,ita­
+dhyaya, Kalamanadhyaya, 15, who refers to an earlier commentary 
+in which time is called endless. 2 
+12. The planets moving equally (traversing the same distance in 
+yojanas each day) in their orbits complete the circle of the 
+asterisms in sixty solar years, and the circle of the sky in a divine age 
+[caturyuga]. 
+In sixty years they move a distance in yojanas 
+equal to the circle of the asterisms. In a caturyuga 
+they move a distance in yojanas equal to the circum­ference of 
+the sky (akasakak?yii) (cf. I, 4). 
+1 JRAS, 1865, p. 401. 
+2 For discussion of the stanza see Fleet, ibid., 1911, pp. 489-90; 
+cf. I, 2. 
+Downloaded from https://www.holybooks.com56 A.RYABHA'_flYA 
+The planets really all move at the same speed. The nearer ones seem to move more rapidly 
+th?,n the more distant ones because their orbits are smaller.
+1 
+13. The l\Ioon, being below, completes its small orbit in a short time. Saturn, being above all 
+the others, completes its large orbit in a long time.
+2 
+14. The zodiacal signs (a twelfth of the circle) are to be known as small 
+in a small circle and large in a large circle. Like­wise 
+the degrees and minutes are the same in number in the 
+various orbits. 3 
+15. Beneath the asterisms are Saturn, Jupiter, Mars, the Sun, Venus, Mercury, 
+and the Moon, and beneath these is the Earth 
+situated in the center of space like a hitching-post.4 
+16. These seven lords of the hours, Saturn and the others, are in order swifter 
+than the preceding one, and counting suc­cessively 
+the fourth in the order of their swiftness they become the Lords of the days from sunrise. 
+They a.re called "swifter than the preceding" be­cause their orbits being successively smaller 
+they 
+complete their revolutions in less time (traverse a given number 
+of degrees in less time). The order of 
+the planets is Saturn, Jupiter, Jvfars, the Sun, Venus, Mercury, and 
+the Moon. Therefore they become rulers 
+of the days of the week as follows: 
+1 Cf. Suryasiddhanta, I, 27 and note; Brahmagupta, XXI, 12; 
+Paikasiddhilntika, XIII, 39; Bhaskara, Goladhyaya, Bhuvanakosa, 
+69; JRAS, 1911, p. 112. 
+2 Cf. JRAS, 1863, p. 375; Suryasiildhanta, XII, 76-77; Pancasi­ddhantika, 
+XIII, 41; Brahrnagupta, XXI, 14; Bhattotpala, p. 45. 
+3 Cf. JRAS, 1863, p. 375; Pancasiddhantika, XIII, 40; Suryasi­ddhanta, 
+XII, 75; Brahrnagupta, XXI, 14; Bhattotpala, p. 45. 
+4 Cf. JRAS, 1863, p. 375; Pancasiddhantika, XIII, 39; Lalla, 
+Madhyarnii,dhikara, 12; Brahmagupta, XXI, 2; Bhattotpala, p. 44. 
+Downloaded from https://www.holybooks.comKA.LAKRIYA OR THE RECKONING OF TIME 57 
+Saturday-Saturn 
+Sunday-Sun 
+:.Ionday-J\Ioon 
+Tuesday-Mars Wednesday-:Mercury 
+Thursday-Jupiter 
+Friday-,' en us 
+For the first part see Brahmagupta, XXI, 13; 
+Suryasiddhanta, XII, 78.1 
+Bhau Daji2 first pointed out the criticism of this stanza made 
+by Brahmagupta (XI, 12) : 
+suryadayas caturtha dinavara yad uvaca tad asad aryabhatali.l 
+la:rikodaye yato 'rkasyastamayam praha siddhapure. ii 
+As Sudhakara shows, the criticism is a futile one. 
+17. All the planets move by their (mean) motion on their orbits and their eccentric circles from the 
+apsis eastward and from the conjunction westward.
+3 
+The mean planet moves with its mean motion on 
+its orbit the center of which is the center of the Earth. 
+The true planet moves with its (mean) motion on an eccentric circle the center 
+of which does not coincide with 
+the center of the Earth. 
+Kakrrya in this passage stands for kak?yiima1pJ.ala, 
+the orbit on which the mean planet moves. The pra­
+tima1},</,ala is the eccentric circle on which the true planet moves. Because of the eccentricity 
+of this second circle the planet 
+_is sometimes seen ahead of and sometimes back 
+of its mean place. 4 
+1 See Barth (CEuvres, III, 151) concerning this as the only refer­ence 
+to astrology in Aryabhata's treatise. The reference to iiyatipata 
+(III, 5) should be added. 
+2 JRAS, 1865, p. 401. 
+3 See Lalla, Chedyakadhikara, 12-13; Brahmagupta, XIV, 11 and 
+XXI, 24. 
+4 See Brennand, Hindu Astronomy, pp. 224 ff.; Surya.siddhanta, 
+p. 64. 
+Downloaded from https://www.holybooks.com58 ARY ABHA TiYA 
+18. The eccentric circle of each planet is equal to its kakwa­
+ma1.uJ.ala [the orbit on which the mean planet moves]. The center of 
+the eccentric circle is outside the center of the solid Earth. 
+The kakfiytimmyJ,ala is determined by I, 4. 
+19. The distance between the center of the Earth and the 
+center of the eccentric circle is equal to the radius of the epicycle. 
+The planets move with their mean motions on their epicycles. 1 
+Brahmagupta, XI, 52, has 
+nicoccavrttamadhyasya golabahyena nama krtam uccam I 
+tatstho na bhavati ucco yatas tato vetti noccam api. II 
+If this really refers to A.ryabhata the criticism is futile since 
+Aryabhata does not call the center of the epi­cycle 
+ucca. As Caturvedacarya says, vagbalam etat. 
+20. The planet in its swift motion from its ucca has a pra­
+tiloma motion on its epicycle. In its slow motion from its iwca it 
+has an anuloma motion on its epicycle. 
+The exact meaning of this is not clear to me. It 
+can hardly mean that the planet moves on its epicycle 
+pratiloma from its sighrocca and anuloma from its 
+mandocca. On the epicycle of the apsis the motion should be exactly the reverse 
+of these. 2 
+Anulomameans ''eastward'' or ''ahead''; Pratiloma 
+means "westward" or "behind." Paramesvara remarks 
+that anuloma and pratiloma 
+refer to the planet's position with reference to the mean planet as ahead 
+of it or behind it. He also re­marks 
+that the planet is sighragati in the six signs 
+1 Cf. Lalla, Chedyakadhilcara, 8-9; Brahmagupta, XIV, 10 and 
+XXI, 24-26. 
+2 See Brahmagupta, XXI, 25-26 and Suryasiddhanta, pp. 63-64, 
+67-68. 
+Downloaded from https://www.holybooks.comK.ALAKRIYA OR THE RECKONING OF Tll\1E 59 
+which are above, and mandagati in the six signs which 
+are below the ucca. '\Yhen pratiloma the true planet 
+is below the mean planet. "\'Vben anuloma the true planet is 
+above the mean planet. 1 
+madhyamakak~a,'Ttte madhyamaya gacchati graho gatya I 
+upar~that tallaghvya tadadhikagatya tv adha}J.sthal;i syat. ! ! 
+Paramesvara sums up the content of the stanza 1\7.th 
+rnadhyamat sphutasya pratilomanulo magatitvarn uktam. 
+The meaning of the stanza seems to be that during half of its revolution on its epicycle the planet is ahead 
+of the mean planet and during half of its revolution is behind the mean planet. 
+21. The epicycles move eastward from the apsis and west­
+ward from the conjunctions. The mean planet, situated on its orbit, appears at the center 
+of its epicycle. 2 
+The next three stanzas state briefly the method of 
+calculating the true places of the planets from their mean places. Paramesvara explains the method as follows: For the Sun and 
+J\tioon only one process of cor­rection is required, 
+that for the apsis. For Mars, Jupiter, and Saturn four processes are neces.sary: 
+(1) From the mean place the mandaphala 
+is calculated and (half of it is) applied to the mean place. 
+(2) From this corrected place the sighraphala 
+is calculated and half of it is applied to the corrected place. 
+(3) From this result the mandaphala is again calculated and applied to the mean place. ( 4) From this result the 
+sighraphala is again calculated and applied to the place obtained in 
+the third process. 
+1 Cf. Lalla, Bhuvanakosa, 38. 2 Cf. Brahmagupta, XXI, 25. 
+Downloaded from https://www.holybooks.com60 ~lR YABHA TIYA 
+For Venus and ntiercury three processes are nec­essary: (I) From 
+the mean place the sighrap/iala is calculated and half 
+of it is applied vyastam (in reverse order) to the 
+mandocca (apsis). (2) This corrected 
+mandocca is subtracted from the mean place, the 
+mandaphala is calculated from this and applied to the 
+mean place. (3) From this corrected place the sighra­
+phala is calculated and applied to the place obtained 
+in the second process. 
+22-23. (The corrections) from the apsis are minus, plus, plus, minus (in the four quadrants). (The corrections) from 
+the con­junctions are just the reverse. 
+In the case of Saturn, Jupiter, and Mars in the first process half 
+of the mandaphala obtained from the apsis is minus and plus to the mean planet. Half (the correction) from 
+the conjunction is minus and plus to the 
+manda planets. (By applying the correc­tion) from the apsis they become 
+sphutamadhya. (By applying 
+the correction) from the conjunction they become sphuta. 
+24. Half (the correction) from the conjunction is to be ap­plied minus and plus 
+to the apsis. (By applying the correction) from the 
+manda [apsis] thus obtained Venus and Mercury become 
+sphutamadhya. They become sphuta (by applying the correction from the conjunction). 
+The first half of stanza 22 gives the general rule as 
+to whether the equations of anomaly and of com­mutation 
+(mandaphala and sighraphala) are to be added or subtracted in each 
+of the four quadrants. The equation from 
+the apsis is minus in the half of 
+the orbit beginning with Me~a, plus in the half of the orbit beginning with Tula. The equation from 
+the 
+conjunction is plus in the half of the orbit beginning with Mesa, minus in 
+the half of the orbit beginning with Tula. 
+Downloaded from https://www.holybooks.comKALAKRIYA DR THE RECKONING OF TI:..\IE 61 
+The planet is called 1nanda after the first correc­
+tion from the apsis has been applied to the mean place. 
+Sphuta means "true." 
+In stanza 24 Paramesvara gives no explanation of 
+the two last words, sphutau bhavatah. It would be 
+natural to take these words as summing up what precedes and 
+to understand that only two processes are involved. 
+But Paramesvara's detailed description 
+of the process in his commentary to stanza 21 indi­cates 
+that three processes are involved, that sphu(m.t 
+bhavatalJ, indicates a further application of the equa­tion from 
+the conjunction. The commentary to stanza 
+24 gives in detail the process of calculating the 
+equations for apsis and conjunction. 1 
+Brahmagupta (II, 19, 33, 46-47) criticizes Arya­
+bhata for the inaccuracy of his method of calculating 
+the true places. 
+25. The product of its hypotenuses di,ided by the radius ·will 
+give the distance between the planet and the Earth. 
+The planet has the same speed on its epicycle that it has on its orbit. 
+Paramesvara explains that the kan;as referred to 
+are the sighrakany,a and the mandakarr;,a employed in 
+the last and the next to the last processes for calculating 
+the true places of the planets. 
+The second half of the stanza is uncertain. This 
+same statement was made in unmistakable terms in 
+1 See Pancasiddhantika, },,,_""\'II, 4-10; Suryasiddhanta, II, 43-45; 
+Brahmagupta, II, 34-40; Lalla, SpaiJtadhikara, 31-36; Bhaskara, 
+Ga1J,itadhyaya, SpG,?ta,dhikara, 34-36 and Goladhyaya, Chedyaka­dhikara, 
+10 ff.; JRAS, 1863, pp. 353-59; Brennand, op. cit., pp. 214-
+28; Kaye, Hindu Astronomy, pp. 87-89. 
+Downloaded from https://www.holybooks.com62 ARY ABHATIYA 
+III, 19. Paramesvara quotes the author of the earlier 
+Prakasika, bhiUaragrahavivaravyasardhaviracitayarh kak~yayarh 
+yo grahasya javas sa mandanicocce bhavati. 
+tavatprama'(l,ayarh kak$yayarh graho mandasphutagatya 
+gacchatity artha!J,. ity aha. asman kirh tv etan nopa­
+pannam iti pratibhati. Then he explains that the 
+meaning may be that the radius of the epicycle is 
+equal to the greatest distance by which the mean 
+orbit lies inside or outside of the eccentric circle. 
+Grahavega!J, is reminiscent of grahajavab, in I, 4, 
+but the meaning can hardly be the same. 
+Kar'(l,a ("hypotenuse") is the distance between the 
+center of the Earth and the planet. 1 
+1 Cf. Brahmagupta, XXI, 31; Bhaskara, Ga1J,itadhyaya, Candra­
+graha'l',J.ddhikara, 4-5; Suryasiddhanta, p. 69. 
+Downloaded from https://www.holybooks.comCHA.PTER IV 
+GOLA OR THE SPHERE 
+1. From the beginning of Me~a to the end of Kanya is the northern 
+half of the ecliptic. The other half from the beginning 
+of Taulya to the end of Min.a is the southern half of the ecliptic. 
+Both devi.ate equally from the Equator. 
+Therefore the greatest declinations north and south are equal, and the declinations 
+of the first three signs in each half are equal to the declinations 
+of the last three signs taken in reverse order. 
+1 
+2. The Sun, the nodes of the planets, and the node of the 
+Moon move constantly along the ecliptic. The shadow of the 
+Earth moves along the ecliptic at a distance of 180 degrees from 
+the Sun. 
+Bhau Daji2 first pointed out the reference to this passage made 
+by Brahmagupta, XI, 8.3 
+Barth 4 questions the stanza, but without good reason. 
+3. The Moon, from its nodes, moves northward and south­
+ward of the ecliptic. Likewise Jupiter, Mars, and Saturn. Venus 
+and Mercury do the same from their conjunctions. 6 
+4. When the Moon has no declination it is visible when 12 
+degrees from the Sun. Venus when 9 degrees. The other planets 
+1 Cf. JRAS, 1863, p. 374; Bhattotpala, p. 45. 
+2 JRAS, 1865, p. 401. 
+3 Cf. I, 7 and note; Brahmagupta, XXI, 53; Suryasiddhanta, 
+IV, 6. 
+4 (Euvres, III, 154. 
+5 Cf. Suryasiddha.nta, I, 68-69 and .Aryabhafiya, I, 6. 
+63 
+Downloaded from https://www.holybooks.com64 ARYABHATiYA 
+in succession according to their decreasing sizes when at 9 degrees increased 
+by two's. 
+Compare Brahmagupta, VI, 6; Suryasiddhanta, 
+IX, 6-9 and X, 1; Pancasiddhantika, XVII, 12 and XVIII, 58. 
+Bhau Daji1 first pointed out the criticism 
+of this stanza made by Brahmagupta, VI, 12: 
+aryabhata}.l. lq;etramsair drsyadrsyan yad uktavams tad asat I 
+drggai;ritavisanivadad drggaQ.itaikyam svakalamsail).. 11 
+5. Half of the spheres of the Earth, the planets, and the asterisms is darkened 
+by their shadows, and half, being turned 
+toward the Sun, is light (being small or large) according to their size.
+2 
+6. The sphere of the Earth, being quite round, situated in the 
+center of space, in the middle of the circle of asterisms, surrounded 
+by the orbits of the planets, consists of water, earth, fire, and air.3 
+7. Just as a ball formed by a Kadamba flower is surrounded on 
+all sides by blossoms just so the Earth is surrounded on all sides 
+by all creatures terrestrial and aquatic. 4 
+8. During a day of Brahman the sphere of the Earth increases 
+a yojana in size all around. During a night of Brahman, which is equal 
+in length to a day of Brahman, there is a decrease by the 
+same amount of the Earth which has been increased by Earth. 5 
+9. As a man in a boat going forward sees a stationary object moving backward 
+just so at Laiilm a man sees the stationary asterisms moving backward (westward) 
+in a straight line. 
+The natural interpretation of this stanza seems 
+1 JRAS, 1865, p. 401. 
+2 Cf. Lalla, Madhyagativasana, 40-41; Bhattotpala, p. 100; Paff.­
+casiddho,mika, XIII, 35, for the Moon. 
+3 Cf. III, 15. Cf. Lalla, Bhugoladhyaya, 1; Paftcasiddhantika, 
+XIII, 1; Bhattotpala, p. 58 (and see JRAS, 1863, pp. 373-74); 
+Alberuni, I, 268. 
+4 Cf. Lalla, Bh-agoladhyaya, 6; Bhattotpala, p. 58 (and see JRAS, 
+1863, pp. 373-74); Bhaskara, GoUidhyaya, Bhuvarwlco§a, 3. 
+6 Cf. Lalla, Grahabhramasamsthadhyaya, 20; Bhaskara, Golli,.. 
+dhyaya, Bhuvanako§a, 62. 
+Downloaded from https://www.holybooks.comGOLA OR THE SPHERE 65 
+to be that an observer at the Equator of the Earth, 
+which ,rotates toward the East, sees the stationary celestial objects as though moving westward. 
+But 
+Paramesvara explains that whereas the Earth does 
+not really move, it appears to move toward the east because of 
+the westward movement of the asterisms. He is forced 
+to take the words anuloma and viloma, 
+which regularly mean "ahead," "eastward," and "backward," "westward," in exactly 
+the opposite senses. 
+He explains that persons on the asterisms, which move toward 
+the west, would seem to see sta­tionary objects on 
+the Earth moving eastward. As 
+Barth 1 points out, this explanation is quite unac­ceptable. 
+It seems that Paramesvara completely mis­represents the opinion of 
+Aryabhata, as clearly stated 
+in several places in the text, and as described by 
+Brahmagupta and other critics of Aryabhata. 
+There is nothing to indicate that this stanza repre­sents a 
+state of affairs caused by mithyajnana ("false knowledge)." 
+Bhattotpala (pp. 58-59) quotes this stanza and 
+then refutes it by quoting the Paficasiddhantika, 
+XIII, 6-8, Paulisa, Brahmagupta, and strangely enough 
+.Aryabhata himself (the following stanza, IV, 10). 
+It is curious that Aryabhata should be quoted against himself, 
+and that Bhattotpala should not 
+indicate clearly which view really represents Arya­
+bhata's own opinion. It looks as though Bhattotpala 
+regarded the first stanza as containing a purvapak~a 
+or erroneous view. 2 
+1 Op. cit., III, 158 n. 2 Cf. JRAS, 1863, pp. 3i5--77. 
+Downloaded from https://www.holybooks.com66 ARYABHA TlYA 
+For criticisms of the rotation of the Earth see 
+A.lberuni (I, 276-77, 280); Lalla, Mithya}nana­dhyaya, 
+42-43; Sripati as reported in the Lucknow edition of Bhaskara's 
+Goladhyaya, page 83; see also Barth.
+1 
+Colebrooke 2 quotes Prthiidaka the commentator on Brahmagupta as follows: 
+bhapaiijara};i sthiro bhur evavrtyavrtya pratidaivasikau I 
+udayastamayau sampadayati nak$atragraha1).am. 113 
+The Viisanavarttika to Bhaskara's GrahagaJJ,ita, 
+page 113, 4 quotes the fore going stanza and remarks 
+that according to Aryabhata the planets move toward 
+the east, the asterisms are stationary, and the Earth 
+rotates eastward. 
+10. The cause of their rising and setting is due to the fact 
+that the circle of the asterisms, together with the planets, driven 
+by the provector wind, constantly moves straight westward at 
+Lanka. 5 
+Bhattotpala (p. 59) quotes this stanza to disprove the preceding stanza which he quoted on page 58 (cf. 
+JRAS, 1863, p. 377). 6 
+The Marici (p. 43) to Bhaskara's Grahaga1J,ita 7 
+quotes this stanza. 
+1 Op. cit., III, 158. 2 Essays, II, 392. 
+3 See JRAS, 1865, pp. 403-4; IHQ, I, 666 (the words given as a direct quotation from 
+Aryabhata are incorrect); BCMS, XVII (1926), 
+175. The author of the last article remarks that it is not clear whether 
+Aryabhata had in mind the geocentric or the heliocentric motion of the 
+Earth. The latter is out of the question. Of. III, 15, 
+bhumir medhibhuta khamadhyastha, and IV, 6, khamadhyagata'IJ,. 
+4 Pandit, Vol. XXXI. 
+5 Cf. Suryasirldhanta, II, 3: Lalla, Madhyamiidhikara, 12. 
+6 See Barth, op. cit., III, 158. 1 Pandit, Vol. XXX. 
+Downloaded from https://www.holybooks.comGOLA OR THE SPHERE 67 
+The Vasanavarttika to Bhaskara's GrahagarJ,ita (p. 118)
+1 quotes this stanza apparently ·without seeing in 
+it anything contradictory to the preceding stanza 
+which was quoted on page 113, and with the remark 
+that .Aryabhata is here following the opinion of V 
+rddhavasi$tha. 
+If the readings of our text are correct it is difficult to see how the two stanzas can be brought into agree­ment. 
+The ninth stanza states unequivocally that 
+the asterisms are stationary and implies the rotation 
+of the Earth. The tenth stanza seems to state that the 
+asterisms, together with the planets, are driven by 
+the provector wind. This would imply the ordinary point of view 
+of most Indian astronomers that the 
+Earth was stationary. Paramesvara avoids the diffi­culty 
+by assuming that stanza 9 describes a state of 
+mind brought about by mithyajnana ("false knowl­edge"). 
+But since several other stanzas (I, 1; I, 4; 
+III, 5; IV, 48) and the testimony of later writers who quote 
+.Aryabhata prove that Aryabhata believed in 
+the rotation of the Earth, it is impossible to follow Paramesvara. 
+We might understand in stanza 10 the 
+phrase "they seem to move" as stating a purvapak~a 
+( the erroneous view), but in the absence of any word to suggest this interpretation 
+it is a doubtful expedi­ent. 
+Stanza 10 cannot be regarded as an interpolation (unless one stanza 
+has been dropped out in order to 
+make room for it) because the last three sections of 
+Aryabhata's work were known to Brahmagupta as 
+"The Hundred and Eight Stanzas" (and our text con­
+tains 108 stanzas). 
+1 Tbid., Vol. XXXI. 
+Downloaded from https://www.holybooks.com68 ARYABHA TiYA 
+11. In the center of the Nandana forest is Mount Meru, a 
+yojana in measure (diameter and height), shining, surrowided by 
+the Himavat Mountains, made of jewels, quite round. 1 
+12. Heaven and Meru are at the center of the land, Hell and 
+Yaq.avamukha are at the center of the water. The gods and the dwellers in Hell both think constantly 
+that the others are beneath them.
+2 
+Quoted by Bhattotpala, page 58. 3 
+13. Sunrise at Lank! is sunset at Siddhapura, midday at 
+Yavakoti, and midnight at Romaka. 4 
+Brahmagupta's criticism (XI, 12) 
+suryadayas caturtha dinavara yad uvaca tad asad aryabhatal). I 
+lankodaye yato 'rkasyastamayaril praha siddhapure II 
+is incorrect, as pointed out by Sudhakara in his com­mentary. 
+14. Lanka is 90 degrees from the centers of the land and water [north and south poles]. 
+Ujjain is straight north of Lanka 
+by 22½ degrees. 5 
+15. From a level place half of the sphere of the asterisms 
+1 Cf. I, 5. Cf. also Suryasiddhanta, XII, 34; Lalla, Bhuvanakoaa, 
+18-19; Bhliskara, Goladhy{J,ya, Bhuvanakoaa, 31; Alberuni (I, 244, 246). 
+Quoted by Bhattotpala, p. 58 (cf. JRAS, 1863, p. 373). 
+2 Cf. Pa~Mntika, XIII, 2-3; Suryasiddhanta, XII, 35-36, 53; Brahmagupta, 
+XXI, 3; Lalla, Bhugolii,dhyaya, 3-4; Bhaska.ra, 
+Goliidhyaya, Bhuvanakosa, 17-20, 31. 
+3 Cf. JRAS, 1863, p. 373. 
+4 Cf. Kern, Brhat Sariihita, Preface, p. 57; Suryasiddhanta, XII, 
+38-41; Pancasiddhantik{J, 1 XV, 23; Lalla, Bhugoladhyaya, 12; Bhas-­
+kara, Golii.dhyaya, Bhuvanakosa, 17, 44; Alberuni I, 267-68; JRAS, 
+1865, p. 402. 
+~ Cf. Suryasiddhanta, I, 62; Pancasiddhantika, XIII, 17; Lalla, 
+Madhyam&Ihikara, 55, and Bhuvanakosa, 41; Brahmagupta, XXI, 
+9; Bhaskara, Goladhyaya, Bhuvanakosa, 50 (Vasanabha,wa), and 
+Madhyagati, 24; Alberuni, I, 316 (cf. BCMS, XVII [1926], 71). 
+Downloaded from https://www.holybooks.comGOLA OR THE SPHERE 69 
+decreased by the radius of the Earth is visible. The other half, plus 
+th~ radius of the Earth, is cut off by the Earth. 1 
+16. The gods, who dwell in the north on Meru, see the northern half 
+of the sphere of the asterisms moving from left to right. The 
+Pretas, who dwell in the south at Vaq.avamukha, see 
+the southern half of the sphere of the asterisms moving from right to 
+left.2 
+Quoted by Bhattotpala, page 324. 3 
+17. The gods and the Pretas see the Sun after it has risen for half a solar year. The Fathers 
+who dwell in the Moon see it for half a lunar month. Here men 
+see it for half a natural [civil] day.' 
+Referred to by Alberuni, I, 330. 
+18. There is a circle east and west (the prime vertical) and another north and south (the meridian) both passing through zenith and nadir. There is a horizontal circle, the horizon, on which the heavenly 
+~odies rise and set.5 
+19. The circle which intersects the east and west points and two points on the meridian which are above and below the horizon 
+by the amount of the observer's latitude is called the unmarp/,ala. 
+On it the increase and decrease of day and night are measured. 
+The unma?J,<J,ala is the east and west hour-circle 
+which passes through the poles. It is also called "the 
+horizon of La:rika." 6 
+1 Of. Lalla, Bhuvanakosa, 36; Brahms.gupta, XXI, 64; Bhaskara, 
+GoliJ,dhyaya, Tri:prasnavasana, 38. 
+! Of. Suryasiildhii:nta, XII, 55; Pancasidr1hantika, XIII, 9; 
+Brahmagupta, XXI, 6-7; Lalla, Grahabhramaearhsthi.idhyaya, 3-5; 
+Bhaskara, Gowilhyaya, Bhuvanakosa, 51. 
+3 Of. JRAS, 1863, p. 378. 
+'Cf. Suryasiddhanta, XII, 74 and XIV, 14; Lalla, Grahabhra,­
+masarhsthadyaya, 14; Brahmagupta, XXI, 8; Pancasidd,hantika, 
+XIII, Z'l, 38. 
+6 Of. Lalla, Golabarulhadhilcara, 1-2; Brahmagupta, XXI, 49. 
+6 Of. Lalla, Golabarulhiiil,hikara, 3; Brahmagupta 1 XXI, 50. 
+Downloaded from https://www.holybooks.com70 ARY ABHATIYA 
+20. The east and west line and the north and south line and the perpendicular from zenith 
+to nadir intersect in the plaCP-where the observer is. 
+21. The vertical circle which passes through the place where the observer is and the planet is the 
+drnmarpJ,ala. There is also the 
+drkk?epamarpJ,ala which passes through the nonagesimal point.
+1 · 
+The nonagesimal or central-ecliptic point is the point 
+on the ecliptic which is 90 degrees from the point 
+of the ecliptic which is on the horizon. These 
+two circles are used in calculating the parallax in longitude in eclipses. 
+22. A light wooden sphere should be made, round, and of equal weight 
+in every part. By ingenuity one should cause it to revolve 
+so as to keep pace with the progress of time by means of 
+quicksilver, oil, or water. 2 
+Sukumar Ranjan Das 3 remarks that two instru­ments are named 
+in this stanza ( the gola and the 
+cakra). I can see no reference to the cakra. 
+23. On the visible half of the sphere one should depict half of the sphere of the asterisms 
+by means of sines. The equinoctial sine is the sine 
+of latitude. The sine of co­latitude is its 
+koti. 
+The sine of the distance between the Sun and the , 
+zenith at midday of the equinoctial day is the equi­noctial sine. This is the same as the equinoctial shadow and equals the sine 
+of latitude. It is the base. 
+1 Cf. SuryMiMhanta, V, 6-7 n.; Kaye, Hindu Astronomy, p. 76. 
+2 Cf. Suryasiddhanta, XIII, 3 ff.; Lalla, Yantr&ihyaya, 1 :ff.; !HQ, 
+IV, 265 ff. 
+3 !HQ, IV, 259, 262. 
+Downloaded from https://www.holybooks.comGOLA OR THE SPHERE 71 
+The sine of co-latitude is the koti ( the side perpen­diculat to the base) or 
+sanku (gnomon). 1 
+24. Subtract the square of the sine of the given declination from the square of the radius. The square root of the remainder 
+will be the radius of the day-circle north or south of the Equator. 
+The day-circle is the diurnal circle of revolution described by a planet 
+at any given declination from the Equator. 
+So these day-circles are small circles parallel to the Equator.
+2 ,_ 
+• 25. Multiply the day-radius of the circle of greatest declina­tion (24 degrees) by 
+the sine of the desired sign of the zodiac and divide 
+by the radius of the day-circle of the desired sign of 
+the zodiac. The result will be the equivalent in right ascension of 
+the desired sign beginning with Mees,. 
+To determine the right ascension of the signs of 
+the zodiac, that is to say, the time which each sign 
+of the ecliptic will take to rise above the horizon at 
+the Equator. 3 
+26. The sine of latitude multiplied by the sine of the given declination and divided 
+by the sine of co-latitude is the earth­sine, which, being situated in the plane 
+of one's day-circle, is the 
+sine of the increase of day and night. 
+The earth-sine is the distance in the plane of the day-circle between the observer's horizon and the 
+1 Cf. Brahmagupta, III, 7-8; Lalla., Samanyago1.ahand,ha, 9-10; 
+Bhaskara, Ga1J,itadhyaya, Tripra8'Ttli,d,hikara, 12-13. 
+2 Cf. Lalla, SpaWUlhikara, 18; Pancasiddhii,ntika, IV, 23; Surya­
+siddoonta, II, 60; Brahmagupta, II, 56; Bhaskara, Gar,,itii.ahyaya, 
+Spal}#ii,dhik4ra, 48 (Vasanabhawa); Kaye, op. cit., p. 73. 
+3 Cf. Lalla, TriprasTIIJ,d,hikara, 8; Brahmagupta, II, 57-58; 
+Suryasid.dhii,nta, III, 42-43 and note; Parica8iddhantikll,, IV1 29-30; 
+Bhaskara, Ga'IJ,itii,dhyaya, Spa,JJ(ii,d,hikara, 57; Kaye, op. cit., pp. 79-80. 
+Downloaded from https://www.holybooks.com72 ARYABHATIYA 
+horizon of Lanka (the unmar;icJ,ala). When trans­formed to the plane 
+of a great circle it becomes the ascensional 
+diff erence. 1 
+27. The first and fourth quadrants of the ecliptic rise in a quarter 
+of a day (15 ghatikas) minus the ascensional difference: The second and third quadrants rise 
+in a quarter of a day plus the ascensional difference, with regular increase and decrease. 
+The last phrase means that the values for signs 
+1, 2, 3 are equal, respectively, to those of signs 6, 5, 4 and 
+that the values of 7, 8, 9 are equal, respectively, to those 
+of 12, 11, 10. They increase in the first quadrant, decrease in 
+the second, increase in the third, and decrease in the fourth. There are, there­fore, only three numerical values involved, those cal­culated for 
+the first three signs. See the table given in 
+Suryasiddhanta, III, 42-45 n. 2 
+28. The sine of the Sun at any given point from the horizon on its day-circle multiplied 
+by the sine of co-latitude and divided by the radius 
+is the sanku when any given part of the day has elapsed or remains. 
+The sanku is the sine of the altitude of the Sun at 
+any time on the vertical circle from the zenith pas­sing through the Sun. Cf. Brahmagupta, 
+XXI, 63, 
+drgma1J,<l,ale natarhsajya drgjya sankur unnatarhsajya, 
+1 Of. Suryasiddhanta, II, 61-63; Lalla, Sp~'tfi,dhikara, 17, and 
+Samanyagolabandha, 4; Brahmagupta, II, 57-60; Pancasiddhantika, 
+IV, 26 and note; Bhaskara, Gar;iitoohyaya, Spar;ta,dhikara, 48; Kaye, 
+op. cit., p. 73. 
+2 Of. Lalla, Madhyagativasana, is; Bhaskara, Gar;iitoohyaya, Spa;fadhikara, 
+65 (Vasanabha?ya) who names Aryabhata in connec­
+tion with this rule. 
+Downloaded from https://www.holybooks.comGOLA OR THE SPHERE 73 
+and Bhaskara, Goladhyii.ya, Triprasnavasana, 36, 
+sankur unnatalavajyaka bhavet. 1 
+Paramesvara remarks: uttaragole gatagantavya­subhyas caradalasun visodhya jivam adaya 
+svahora­
+trardhena nihatya trijyaya vibhajya labdhe bhujyam 
+prakr;ipet. sa kr;itijad utpanna svahoratref}ta,jya bhavati. This corresponds 
+to the so-called cheda of Brahma­gupta. 
+29. Multiply the given sine of altitude of the Sun by the sine of 
+latitude (the equinoctial sine) and dh-ide by the sine of co­latitude. 
+The result will be the base of the saiiku of the Sun south of 
+the rising and setting line. 
+Sankvagra is the same as sankutala ("the base of 
+the sanku") and denotes the distance of the base of 
+the sanku from the rising and setting line. 2 
+30. The sine of the greatest declination multiplied by the 
+given 1;>ase::-sine._9f.:the .. &,g_ and divided by the sine of co-latitude 
+is the Sllil.'S ·aura on the east and west horizons. 
+The agra is the Sun's amplitude or the sine of the degrees 
+of difference between the day-circle and the east and west points on the horizon.
+3 
+The proportions employed are those given in 
+Suryasiddhanta, V, 3 n. 
+1 Cf. Suryasid,dhanta, III, 35-39 and note; Brahmagupta, III, 
+25-26; BCMS, XVIII (1927), 25. 
+2 Cf. Brahmagupta, III, 65 and XXI, 63; Bhaskara, Goladhyaya, 
+Triprasnavasana, 40-42 (and Vasanabhawa) and GaTJ,itadhyaya, Tri­prafrnadhikara, 
+73 (and Vasanabhiu;ya); Lalla, Tri'[>'rasnadhikara, 49. 
+3 See Suryasid,dhanta, III, 7 n.; Brahmagupta, XXI, 61; Bb.a.s­
+kara, Gol,a,dhyaya, Triprasnavasana, 39 and GarJ,itadhyaya, Trir,rasna­
+dhikara, 17 (Vasanabhawa). 
+Downloaded from https://www.holybooks.com74 ARYABHATIYA 
+31. The measure of the Sun's amplitude north of the Equator [i.e., when the Sun 
+is in the Northern hemisphere], if less than the sine 
+of latitude, multiplied by the sine of co-latitude and,divided 
+by the sine of latitude gives the sine of the altitude of the Sun on 
+the prime vertical.1 
+Bhau Daji2 first pointed out that Brahmagupta (XI, 
+22) contains a criticism. of stanzas 30-31. 
+uttaragole 'grayfuh vii;;uvajjyato yad uktam unayam I 
+samamal).qalagas tad asat krantijyayani yato bhavati 11 
+Paramesvara remarks: vi?uvajjyona cet. vi?uvaj-jyonaya krantya sadhita 
+ced ity arthah,. vi?uvaj­jyonakrantisiddha sodaggatarkagra. 
+32. The sine of the degrees by which the Sun at midday has risen above 
+the horizon will be the sine of altitude of the Sun at 
+midday. The sine of the degrees by which the Sun is below the 
+zenith at midday will be the midday shadow. 33. Multiply the meridian-sine 
+by the orient-sine and divide 
+by the radius. The square root of the difference between the 
+squares of this result and of the meridian-sine will be the sine of 
+the ecliptic zenith-distance. 
+The madhyajya or "meridian-sine" is the sine of 
+the zenith-distance of the meridian ecliptic point. 
+The udayajya or "orient-sine" is the sine of the amplitude 
+of that point of the ecliptic which is on the horizon. The sine of 
+the ecliptic zenith-distance of that 
+point of the ecliptic which has the greatest altitude (nonagesimal point) is called the 
+drkk?epajya. 3 
+1 Cf. Suryasiddhiinta, III, 25-26 n.; Brahmagupta, III, 52; 
+Pancasiddhtintika, IV, 32-3, 35 n. 
+2 JRAS, 1865, p. 402. 
+3 Cf. Suryasiddhanta, V, 4-6; Pancasiddhantika, IX, 19-20 and 
+note; Lalla, Suryagrahat1,adhikara, 5-6; Kaye, op. cit., pp. 76-77; 
+BCMS, XIX (1928), 36 .. 
+Downloaded from https://www.holybooks.comGOLA OR THE SPHERE 75 
+Brahmagupta (XI, 29-30) criticizes this stanza as 
+follow6: 
+vitribhalagne drklqepama]J.g.alam tadapamal)q.alayutau jya I 
+madhya drklq1epajya naryabhatoktanaya tulya l I 
+dr~epajyato 'sat tannasad a..-anater nasal) I 
+avanatinasad grasasyonadhikata ravigrahaI_le. I! 
+34. The square root of the difference of the squares of the sines 
+of the ecliptic zenith-distance and of the zenith-distance is 
+the sine of the ecliptic-altitude. 9 2.. '> • ft 7 Cj 7 A 
+kuvasat keitije sva drk chaya bhiivyasardharb. nabhomadhyat. 
+The sine of the altitude of the nonagesimal point 
+of the ecliptic is called the drggatijya. 
+Drk is equivalent to drgjya the sine of the zenith­distance 
+of any planet. 1 
+This stanza is criticized by Brahmagupta (XI, 
+21) : 6 7:> S ~ f 6-f 5 b S 1-5" 
+dr~epJa bahur drgjya ila.rJ.10 'nayol). lqti-dse~at I 
+miilam drgnatijiva sati1sthanam ayuktarn etad api. !I 
+The construction of the second part of the stanza 
+and the exact meaning of drk and chaya are not clear 
+to me. It seems to mean that when the sine of the zenith-distance is equal 
+to the radius the greatest parallax (horizontal parallax) is equal 
+to the radius of 
+the Earth. Kuvasat ("because of the Earth") 
+seems to indicate that parallax is due to the fact 
+that we are situated on its surf ace and not at its 
+center, and that parallax, therefore, is the difference between 
+the positions of an object as seen from the center 
+and from the surface of the Earth. 
+1 Cf. Silryasiiidhanta, V, 6; Lalla, Suryagrahari,a, 6; Pancasi­ddhantika, 
+IX, 21 and p. 60; Bhaskara, Ga1J,itadhyiiya, Suryagraha'l).a, 
+II, 5-6 (and Vasanabhawa); BCMS, XIX (1928), 36-37. 
+Downloaded from https://www.holybooks.com76 ARYABHA TlYA 
+Paramesvara's explanation is as follows: 
+Drgbhedahetubhuta svacchaya drgjya va svacJ.rggatijya va drklq,epajya 
+vety arthal).. sa yadi ~itije bhavati nabhomadhyat 
+k1?itijanta bhavati vyasardhatulya bhavatity arthas tada 
+kuvasad bhumivasan ni~panno drgbhedo vyasardham bhavati 
+bhuvyasardhatulyam drgbhedayojanam ity arthal,1. antarale 
+'nupatat kalpyam. 
+Sukumar Ranjan Das1 states that there is no 
+reference to parallax in Aryabha ta. If Paramesvara is 
+correct in interpreting the second part of the rule as giving 
+yojanas of drgbheda (parallax), we must ascribe to 
+Aryabhata the knowledge of parallax, even though no rules are given for its calculation 
+at intermediate points. 
+It is hard to see what else the "radius of the 
+Earth" can refer to when given immediately after rules for finding 
+the drkk?epajya and the drggati­
+jya (cf. Brahmagupta, XXI, 64-65, and Bhaskara, 
+Goladhyaya, GraharJ,avasana, 11-17), especially since parallax was well known to the old 
+Suryasiddhanta 
+which antedated .Aryabhata. 2 
+It seems to me that the passage is probably to be interpreted 
+in the light of Brahmagupta, XXI, 64-65: 
+drsyadrsyam drggolardhani bhuvyasadalavihinayutam I 
+drai;;ta bhugolopari yatas tato lambanavanati II 
+ki;!itije bhudalaliptal:i kak1?ayam driinatir nabhomadhyat I 
+avanatilipta yamyottara ravigrahavad anyatra. 113 
+35. The sine of latitude multiplied by the sine of celestial latitude and divided 
+by the sine of co-latitude is minus and plus to the Moon when 
+it is north of the ecliptic depending on 
+1 "Parallax in Hindu Astronomy," BCMS, XIX (1928), 29-42. 
+2 Cf. Pancasiddhantika, p. 60. 
+8 See also Lalla, M adhyagativasana, 23-28. 
+Downloaded from https://www.holybooks.comGOLA OR THE SPHERE i7 
+whether it is in the Eastern or "\Y estern hemi:,phere, plus and minus 
+~-hen it is south of the ecliptic under the same circum­stances. 
+This stanza and the next give the calculation called 
+drkkarman, an operation for determining the point on 
+the ecliptic to which a planet having a given 
+latitude will be ref erred by a secondary to the prin1e vertical. 
+It has been called "operation for apparent longitude" 
+and falls into two parts, namely, the "operation for latitude" 
+(a.J.,?adrkkarman) treated in 
+this stanza and the "operation for ecliptic-deviation" (ayanadrkkarman) treated 
+in the following stanza. 1 
+The stanza is criticized by Brahmagupta (XI, 34) : 
+~epagu:r;tak:$ajya lambakabhakta grahe dhanam roam yat I 
+uktam udayastamayayor na pratighatikari1 yatas tad asat. i I 
+Brahmagupta, X, 13-14 gives a general criticism of 
+Aryabhata's drkkarman, followed by a.n exposition 
+of his own method. 
+36. Multiply the versed sine (of the Moon) by the celestial 
+latitude and by the (greatest) declination, and divide by the square of 
+the radius. The result is minus or plus to the Moon when 
+it is in the northern ayana depending on whether its celestial latitude is north 
+or south, and plus or minus when it is in the 
+southern ayana under the same conditions. 
+Paramesvara explains utkrama1J.,am by kofya utkrama}ya. 
+The ayanas are the northern and southern paths of 
+the Sun from solstice to solstice. 2 
+1 Cf. Suryasiddhanta, VII, &-9 n.; Kaye, op. cit., pp. 78-79. 
+2 Cf. Suryasid,dhii,nta, VII, 10 n.; Lalla, Madhyagativasana, 
+47-48. 
+Downloaded from https://www.holybooks.com78 ARYABHA 'flYA 
+Criticized by Brahmagupta (XI, 35): 
+trijyakrtibhakta vik~epapakramagm;iotkramajyendol;t I 
+ayanante yad n1.adhanam tat tasyadau tato 'sat tat. II 
+37. The Moon consists of water, the Sun of fire, the Earth 
+of earth, and the Earth's shadow of darkness. The Moon ob­
+scures the Sun and the great shadow of the Earth obscures the 
+Moon. 1 
+Brahmagupta (XI, 9) remarks: 
+aryabhato janati graha,etagatirh yad uktavarils tad asat I 
+rahukrtaril na graha:r;iaril tatpato na~tamo rahul;l. 11 
+There is no such statement in our text and Brahma­gupta himself (XXI, 43-48) ascribes eclipses 
+to Rahu. 
+38. When at the end of the true lunar month the Moon, being near the node, enters the Sun, or when 
+at the end of the half­month the Moon enters the shadow 
+of the Earth that is the middle 
+of the eclipse which occurs sometimes before and some­
+times after the exact end of the lunar month or half-month. 
+Paremesvara remarks, sphutasasimasante lamba­nasarhskrte 
+'miivtisyantakiile. He also takes the words 
+adhikonam as meaning "middle of the eclipse which lasts for a longer or shorter time," 
+but gives as an alternate explanation offered 
+by some the foregoing translation. 
+2 
+39. Multiply the distance between the Earth and the Sun by the diameter 
+of the Earth and divide by the difference between the diameters 
+of the Earth and the Sun. The result will be the length 
+of the shadow of the Earth (measured) from the diameter of the Earth. 
+1 Cf. Suryasiddhanta, IV, 9; Lalla, Madhyagativasana, 29, 34. 
+2 Cf. Suryasiddhanta, IV, 6, 16; Lalla, CandragrahaV,a, 10; Albe­runi, II, 111. 
+Downloaded from https://www.holybooks.comGOLA OR THE SPHERE 79 
+The last clause seems to indicate that the measure­ment 
+is to be reckoned from the center of the Earth. 1 
+40. The difference between the length of the Earth ·s shadow 
+and the distance of the l\Ioon from the Earth multiplied by the 
+diameter of the Earth and di\'ided by the length of the Earth's 
+shadow is the diameter of the Earth's shadow (in the orbit of the 
+Moon). 2 
+41. Subtract the square of the celestial latitude of the ~Ioon 
+from the square of half the sum (of the diameters of the Sun and 
+Moon or of the Moon and the shadow). The square root of the 
+remainder is known as the sthityardha. From this the time is calculated 
+by means of the daily motions of the Sun and :\loon. 
+The sthityardha is half of the time from first to last 
+contact.:! 
+42. Subtract the radius of the Moon from the radius of the 
+Earth's shadow. Subtract from the square of the remainder the 
+square of the celestial latitude. The square root of this remainder 
+will be the vimardardha. 
+The vimardiirdha denotes half of the time of total obscuration. 
+4 
+43. Subtract the radius of the 1\Ioon from the radius of the 
+Earth's shadow. Subtract this remainder from the celestial latitude. 
+The remainder is the part of the Moon which is not 
+eclipsed. 
+44. Subtract the given time from half of the duration of the 
+obscuration. Add this to the square of the celestial latitude. Take 
+1 Cf. Brahmagupta, XXIII, 8. 
+2 Cf. Brahmagupta, X..XIII, 9. 
+a Cf. Paiicasiddhantika, VI, 3 and X, 2b-3; Suryasiddhanta, IV, 
+12-13; Brahmagupta, IV, 8. 
+4 Cf. Suryasiddhanta, IV, 13; Pancasiddhantika, X, 7; Brah­
+magupta, IV, 8. 
+Downloaded from https://www.holybooks.com80 ARYABHA TlYA 
+the square root. Subtract this from half the sum of the diameters. The remainder 
+will be the obscuration at the given time.; 
+The first sentence ought to be: "Subtract the 
+koti of the given time from the koti of the sthityardha. 
+Square this.'' 
+45. The sine of the latitude multiplied by the sine of the hour-angle and divided 
+by the radius is the deflection due to latitude. 
+It is south. sthityardhac carkendos 
+trirasisahitayanat sparse. 
+For the difficulty of the stanza and the gap in the commentary 
+of Paramesvara see the Preface to Kern's edition (pp. v-vi) with 
+the references to Bhaskara. "Hour-angle" is expressed 
+by madhyahnat krama 
+(gu1J,itah,). "Deflection due to latitude" seems to be the meaning of 
+dik. 
+The first part deals with the fik?avalana or "deflec­tion due to latitude." According to Paramesvara, 
+it 
+is south in the Eastern and north in the Western hemisphere. The other books give 
+just the opposite. Paramesvara remarks, 
+etad ak?avalanarh sthitya­
+rdhac ea. sthityardhasabdena tanmulabhilto vik?epa 
+ucyate. 
+Paramesvara also remarks, ayanasabdenapakrama ucyate. 
+trirasisahitad arkac candrac ea ni?panno 
+'pakramo 'pi tayor arkendor valanam bhavati. 
+Paramesvara explains sparse as sparsa iti graha1J,a 
+ity evarthatalJ,. 
+However the second part of the stanza is to be 
+1 Cf. Suryasiddhanta, IV, 18-20; Pancasiddhantika, X, 5-6; 
+Brahmagupta, IV, 11-12. 
+Downloaded from https://www.holybooks.comGOLA OR THE SPHERE 81 
+translated it must deal with the so-called tiyanavalana 
+or "deflection due to the deviation of the ecliptic from 
+the equator." 
+Both valanas ("deflection of the ecliptic'') were employed in the projection 
+of eclipses. 1 
+46. At the beginning of an eclipse the ?\foon is dhumra, when half obscured 
+it is kr?'tJ,a, when completely obscured it is kapila, 
+at the middle of an eclipse it is kr?rJ,atamra. 2 
+47. When the Moon eclipses the Sun eYen though an eighth 
+part of the Sun is covered this is not preceptible because of the 
+brightness of the Sun and the transparency of the l\Ioon. 3 
+· 48. The Sun has been calculated from the conjunction of the 
+Earth and the Sun, the Moon from the conjunction of the Sun and 
+Moon, and all the other planets from the conjunctions of the 
+planets and the Moon. 4 
+49. By the grace of God the precious sunken jewel of true 
+knowledge has been rescued by me, by means of the boat of my 
+own knowledge, from the ocean which consists of true and false knowledge.
+5 
+50. He who disparages this universally true science of astronomy, which formerly was revealed 
+by Svayambhii, and is now described 
+by me in this Aryabhafiya, loses his good deeds 
+and his long life. 6 
+Read pratikuncuko. 
+1 Cf. Brahm.agupta, IV, 16-17 and XXI, 66; Lalla, Ca.ndragraha-
+1J,adhikara, 23, 25; Suryasiddhanta, IV, 24-25: "From the position of 
+the eclipsed body increased by three signs calculate the degrees of declination." See Brennand, 
+Hindu Astronomy, pp. 280-83; Kaye, Hindu 
+Astronomy, pp. 77-78. 
+2 Cf. Suryasiddhiinta, VI, 23; Lalla, Candragraha'{lii,dhikara, 36; 
+Brahmagupta, IV, 19. 
+3 Cf. Silryasiddhanta, VI, 13. 
+'Cf. BCMS, XII (1920-21), 183. 
+° Cf. ibid., p. 187. 6 Cf. JRAS, 1911, p. 114. 
+Downloaded from https://www.holybooks.comDownloaded from https://www.holybooks.comGENERAL INDEX 
+[Including the most important Sanskrit proper names] 
+Alberuni, 10, 14, 15, 53, 69 
+Alphabet, letters of, used with numerical value, 
+2-9 
+Altitude of Sun, sine of, 72, 73 
+at midday, 74 
+on prime vertical, 7 4 
+Amplitude, of Sun, 73, 74 
+Anomaly, equation of, 60 
+Apparent longitude, 77 
+Apsides of planets, epicycles, 18 
+motion, 16-18, 52 
+position, 16 
+Apsis of Moon, 53, 54 
+epicycle, 18 
+revolutions, 9 
+Apsis of Sun, epicycle, 18 
+motion, 16-18, 52 
+position, 16 
+Area, any plane figure, 27 
+circle, 27 
+square, 21 
+trapezium, 27 
+triangle, 26 
+Ascensional difference, 72 
+Asterisms, 55, 56 
+half-dark, half-light, 64 
+revolutions, 52 
+stationary, xiv, 64-67 Asterisms, 
+circle of, 55 
+driven by provector wind, 66 
+sixty times orbit of Sun, 13 
+surrounds Earth as center, 64 
+Asterisms, sphere of, half, de­
+picted on a sphere, 70 
+half, minus radius of Earth visible to 
+men, 68-69 
+83 visible to Gods, half to 
+Pre/as, 69 
+Balabhadra, 16 
+Balls, pile of, with triangular 
+base, 37 
+Base of sanku, 73 
+Base of triangle, 26, 33, 70 
+Base-sine of Sun, 73 
+Bharata battle, 12 
+Bhaskara, 14, 19, 27 n., 28, 55, 
+66, 67, 73, 76, 80 
+Bhattotpala, 65, 68, 69 
+Brahmagupta, 2, 10, 11, 12, 13, 
+14, 15, 17, 18, 55, 57, 58, 64, 
+68, 74, 75, 76, 78 
+Brahman, day of. See Day 
+night of, 64 
+Central ecliptic-point. See Non­
+agesimal point 
+Chain, in indeterminate equa­tions, 
+43, 45-50 
+Circle, area, 27 
+chord of one-sixth circumf er­
+ence, 27 
+construction, 30 
+quadrant, in constructing 
+sines, 28 
+relation of circumference to diameter, 
+28 
+saras, 33 
+sampatasaras, 34-35 
+Civil day, 52, 69 
+Co-latitude, sine of, 70, 71, 72, 
+73, 74, 76 
+Commutation, equation of, 60 
+Compass, 31 
+Downloaded from https://www.holybooks.com84 ARYABHA TIYA 
+Conjunctions, · Earth and Sun, 
+52, 81 
+:\loon and Sun, 52, 81 
+;.\loon and planets, 81 
+planets with one another number 
+in a yuga, 51 
+past and future, calculated from distance 
+apart, 
+41-42 
+Conjunctions, of planets, epi­cycles, 18 revolutions, 9 Venus 
+and Mercury cross ecliptic 
+at, 63 
+Cube, defined, 21 
+Cube root, 24-26 
+Day, 51 
+civil, 52, 69 
+sidereal, 52 
+Day-circle, 71, 72 radius, 
+71 
+Day of Brahman, 12 
+increase of Earth during, 64 measurement of, 
+53 
+part which has elapsed, 12 
+Day-radius, 71 
+Declination, 71 
+Declination, greatest: of ecliptic, 
+16 
+day-radius, 71 
+sine of, 73, 77 Deflection, in eclipses, 80-81 Degrees, 
+13, 56 
+Deviation, of ecliptic from Equa­
+tor, 63 
+of Moon and planets from ecliptic, 16 Diameter, of circle, relation 
+to 
+circumference, 28 of 
+Earth, Sun, Moon, and 
+planets, 15 
+Earth, compared to round Ka­
+damba flower, 64 conjunction ·with Sun, 52, 81 
+constitution, 64, 78 diameter, 15 half dark, half light, 64 increase 
+and decrease in size, 64 located in cent.er 
+of space, 56, 64 moves one minute in a 
+pra7J,a, 
+13 
+revolutions eastward, 9 
+rotation, 9, 14, 65-66 shadow. 
+See Shadow simile of 
+man moving m a boat, 64 Earth-sine, 
+71 
+Earth-wind, 18 
+East and west hour-circle, 69 
+Eccentric circle, equal in size to 
+orbit, 58 location of center, 58 movement of planet on, 57 Eclipses, 78-81 causes 
+and time, 78 color of Moon, 
+81 
+deflection, 80-81 half-duration, 
+79 
+middle, 78 obscuration at given time, 
+79-80 
+of Sun not perceptible if less 
+than one-eighth obscured, 
+81 
+part of Moon not eclipsed, 79 
+shadow of Earth, 78-79 
+total obscuration, 79 
+Ecliptic, deviates equally from Equator, 63 deviation of Moon 
+and plan­ets from, 
+16 
+greatest declination, 16 
+northern and southern halves, 63 quadrants, 72 Sun, nodes of Moon 
+and plan­ets, 
+and shadow of Earth 
+move along, 63 
+Downloaded from https://www.holybooks.comGENERAL INDEX 85 
+Ecliptic-altitude, sine of, 7,5 
+Ecliptic-dev--iation, 77 
+Ecliptic. zenith-distance, sine of, 
+74, 75 
+Epicycles, dimensions, 18, 58 
+mean planets at centers, 59 
+movement of, 59 
+planets on, 58, 59, 61 
+number of revolutions, 51 
+Equator, celestial, 63 
+Equator, terrestrial. See Lanka 
+Equinoctial shadow, 70 
+Equinoctial sine, 70, 73 Factors, problems relating 
+to 
+two, 38 
+Fathers, dwell in Moon, 69 
+see Sun for half a month, 69 
+year of, 53 Fractions, 
+40 
+Gnomon, 31-33, 71 
+Gods, dwell on Mero, 69 
+see northern half of stellar sphere, 
+69 
+see Sun for half a year, 69 
+think dwellers in Hell are be­
+neath them, 68 
+year of, 53 
+Half-duration, of eclipse, 79 Heaven, 
+at center of land, 68 
+Hell, at center of ocean, 68 
+Himavat Mountains, 68 Horizon, 
+69 
+Horizon of Lanka, 69, 72 
+Horizontal, how determined, 30 
+Hour-angle, 80 
+Hypotenuse, of a planet, 61 
+relation to side of right-angle triangle, 31, 33 
+Indeterminate equations of first degree 
+(ku"aka), xiv, 42-50 Intercalary months, 52 
+Interest, 38-39 
+Inverse method, 40 
+Jupiter. See Planets years of, 
+51 
+Kusumapum, 21 
+Lalla, 10, 1--1, Lj, 18, 19, .S9, 66 Larika 
+(terrestrial Equator), 9. 
+6--1, 66, 6S . 
+horizon of, 69, 72 
+90 degrees from poles, 68 
+Latitude, celestial, 76, 77, 79 
+Latitude, sine of, 70, 71, 73, 74, 
+76, 80 
+Long letter, as measure of time, 
+51 
+Longitude, apparent, 77 
+Lunar days, omitted, 53 
+Lunar month, 52, 69 
+l\Iahasiddhanta, xvi 
+l\Ianu, period of, 12 
+::\farici, 66 l\Iars. 
+See Planets 
+Mean planet, 57, 58, 59, 60 
+Mean motion, of planets, 57, 58 Mercury. 
+See Planets Meridian, 
+69 
+Meridian-sine, 7 4 
+Meru, at center of land, 68 description, 
+68 
+dimensions, 15, 68 home of 
+the gods, 68 
+Midday shadow, 74 
+Midnight school, 11 n. 
+Minutes, 13, 56 
+Month, 51 
+intercalary, 52 
+lunar, 52, 69 
+Moon, calculated from conjunc­
+tion of Sun and Moon, 81 
+Downloaded from https://www.holybooks.com86 ARYABHATIYA 
+causes eclipse of Sun, 78 
+crosses ecliptic at node, 63 diameter, 
+15 
+distance from Sun at which visible, 
+63 
+eclipse. See Eclipses epicycle of apsis, 
+18 
+greatest deviation from eclip-tic, 16 half dark, half light, 64 home of 
+the Fathers, 69 
+Lord of Monday, 56-57 
+made of water, 78 nearest 
+to Earth, 56 node moves along ecliptic, 
+63 
+revolutions, 9 
+of apsis, 9 of node, 9 
+true place, calculation of, 59 
+Munisvara, xv 
+N andana forest, 68 Night of Brahman, decrease of 
+Earth during, 64 Node 
+of Moon, moves along ecliptic, 
+63 
+revolutions, 9 
+Nodes of planets 
+Jupiter, Mars, and Saturn 
+cross ecliptic at nodes, 63 move along ecliptic, 
+16-18, 63 
+position of ascending nodes, 16 N onagesimal point, 
+70 
+altitude, 75 
+zenith-distance, 7 4 Numbers, classes of, enumerated 
+by powers of ten, 21 
+Oblique ascension, equivalents in, of quadrants of ecliptic, 72 Omitted lunar days, 
+53 
+Orbits, of planets, in yojanas, 13 
+movement of IJlanets on, 57 surround 
+Earth as center, 56, 64 Orient-sine, 7 4 Pancasiddhantika, 10, 12 n., 18, 19, 
+64, 65 
+Parallax, 75-76 Perpendicular, how determined 
+30 ' 
+Perpendiculars, from intersection of diagonals of trapezium, 
+27 
+Plane figure, area of any, 27 Planets, as lords of 
+the days, 
+56-57 
+calculated from conjunctions with 
+the Moon, 81 
+conjunctions past and future calculated from distance 
+apart, 41 number 
+in a yuga, 51 cross ecliptic at nodes or con­junctions, 63 diameters, 15 distance from 
+Earth at which visible, 
+63-64 
+driven by provector wind, 66 epicycles, 18, 51, 58-59, 
+61 
+greatest deviation from eclip-tic, 
+16 
+half dark, half light, 64 mean, 57, 58, 59, 60 motion, 57, 58 move with equal speed, 55 movement of apsides, 
+16-18, 
+52 
+on orbits and eccentric cir­cles, 57 nodes move along ecliptic, 
+63 
+orbits of, in yojanas, 13 
+periods of revolution differ because orbits differ in 
+size, 56 positions of apsides 
+and as­cending nodes, 16 relative position 
+with refer­ence 
+to Earth as center, 56 revolutions, 9 of conjunctions, 
+9 
+time in which they traverse distance equal 
+to circle of asterism.s 
+and of sky, 55 
+true distance from Earth, 61 
+Downloaded from https://www.holybooks.comGENERAL INDEX 87 
+true places, calculation of, 
+59-61 
+yuga· of, 53 Plumb-line, 
+30 
+Pretas, dwell at Vaq.avamukha, 69 
+see southern half of stellar sphere, 69 see 
+Sun for half a year, 69 
+Prime vertical, 69 
+altitude of Sun on, 7 4 
+Progression, arithmetical, num­
+ber of terms, 36 
+sum, 35-36 
+of any number of terms 
+taken anywhere within, 35-36 of series made 
+by taking 
+sum of terms, 37 
+sums of series made by taking 
+squares and cubes of terms, 37-38 
+Proportion, 39 
+Provector wind, 66 
+Prthiidaka, quoted, 66 
+Pyramid, volume, 26 
+Quadrilateral, construction, 30 
+formed in quadrant of circle, 
+28 
+Radius, 61, 72, 74, 80 
+equals chord of one-sixth cir­cumference, 27 
+square of, 71, 77 
+Reciprocal division, 42-46, 48-
+49 
+Revolutions, of apsis of Moon, 9 
+of asterisms are sidereal days, 
+52 
+of conjunctions of planets, 9 of 
+Earth eastward, 9 of epicycles, 
+51 
+of node of Moon, 9 of Sun, 
+are solar years, 52 Moon, 
+and planets, 9 in yuga equal years of 
+yuga, 15 
+time and place from which 
+calculated, 9 
+Right ascension, equivalents in, of signs of zodiac, 
+71 
+Romaka, 68 
+Rule of three, 39 
+Saturn. See Planets farthest from 
+Earth, 56 Series, made 
+?Y taking sum of terms of 
+anthmetical progres­sion, 
+37 
+made by taking squares and 
+cubes of terms of arith­
+metical progression, 37-38 
+Shadow, midday, 74 Shadow of 
+Earth, causes eclipse of 
+:Moon, 78 
+diameter of, in orbit of :Moon, 
+79 
+length, 78 
+maae of darkness, 78 
+moves along ecliptic, 63 Shadow of gnomon, 31-33 Sidereal day, 52 Sidereal 
+vinaiJ,ika, 51 
+Siddhapura, 68 
+Signs of zodiac, 13, 56 day-circle of, 
+71 
+right ascension, equivalents in, 
+71 
+sine of, 71 
+Sine of Sun, 72 Sines, construction of, 
+on radius of 
+quadrant, 28 
+table of sine-differences, 19 
+calculation of, 29 Sky, circumference of, 13, 14, 55 Solid 
+with twelve edges, 21 Solar year, 52, 53, 69 Space, measurement of, 
+51 
+Sphere, volume, 27 
+Downloaded from https://www.holybooks.com88 ARYABHA TIYA 
+wooden, made to revolve, 70 
+half of stellar sphere de-
+picted on, 70 
+Square, defined, 21 
+Square root, 22-24 
+Sripati, quoted, 66 
+Sun, amplitude, 73, 74 
+apsis, position of, 16 
+base-sine, 73 
+calculated from conjunction 
+of Earth and Sun, 81 
+diameter, 15 
+eclipse. See Eclipses 
+epicycle of apsis, 18 
+Lord of Sunday, 56-57 
+made of fire, 78 
+moves along ecliJ?tic, 63 
+orbit is one-sixtieth circle of 
+asterisms, 13 
+relative position among plan­
+ets, 56 
+revolutions, 9, 52 
+in yuga equal years of 
+yuga, 15 
+sine of, 72 
+altitude. See Altitude 
+true place, calculation of, 59 
+visible to gods and Pretas for 
+half a year, 69 
+to Fathers for half a 
+month, 69 
+to men for half a day, 69 
+Sunrise school, 11 n. 
+Suryasiddhanta, 10, 12, 14, 18, 
+19, 57, 64, 72, 73 
+Three, rule of, 39 Time, beginningless and end­
+less, 55 
+measurement, 51 
+Total obscuration, in eclipse, 79 
+Trapezium, area, 27 
+perpendicular from intersec­
+tion of diagonals, 27 
+Triangle, area, 26 
+construction, 30 
+formed in quadrant of circle, 
+28 
+hypotenuse of right-angle, 31, 
+33 
+True places of planets, 59--61 
+Ujjain, 22½ degrees north of 
+Lanka, 68 
+Vaqavamukha, 68, 69 
+Vasanavarttika, 66, 67 
+Venus. See Planets 
+Versed sine, of Moon, 77 
+Volume, pyramid, 26 
+solid with twelve edges, 21 
+sphere, 27 
+Yavakoti, 68 
+Year, 51 
+of gods, 53 
+of the Fathers, 53 
+of men, 53 
+solar, 53, 69 
+Zenith-distance, 75 
+Zero, 6-7 
+Zodiacal signs. See Signs 
+Downloaded from https://www.holybooks.comSA.NSKRIT INDEX 
+Agra, 43, 45-46, 49 
+Agra, 73 
+Aghana, 24-26 
+Angula, 16 
+Adhikonam, 79 
+Anuloma, 58, 65 
+Anlyavarga, 2, 6 
+Ayana, 51, 77 
+Avarga, letters and places, 2-5 
+in square root, 22-24 
+Avasarpi~t, 53 
+Asra, 21 n., 26 n. 
+Asvayuja, 51 
+Akasakab;ya, 14, 55 
+AkJJadrkkarman, 77 
+.4.k§avalana, 80 
+Ayqnadrkkarman, 77 
+.Ayana1.:alana, 81 
+I nduccat, 54 
+Ucca, 51, 52, 58 
+Utkrama7Jam, 77 
+Utsar'f)iri'i, 53 
+Udayaiya, 74 
+Unmar.uJ,ala, 69, 72 
+Upaciti, 37 
+Kak~ya, 57 
+Kakl}yam.arp:J,ala, 57, 58 
+Kanya, 63 
+Kam, 1 
+Karkafa, 31 
+Kan:.w,, 30, 33, 61, 62 
+Kalpa, 12 
+K utta,ka, xiv 
+Kuvasat, 75 
+Ko,i, 70, 71 Kotz, 32, 33 
+Kha. 7 
+Khadvinai·aka, 7 
+Khai-rtta, 31 
+Gw:wkarablu'igahara, 40 
+Gola, 70 
+Grahajarn, 13, 62 
+Grahai·ega, 62 
+Grasa, 34 
+Ghatika, 72 
+Ghana, defined, 21 
+in cube root, 24-26 
+Cakra, 70 
+Caturbhuja, 30 
+Caturyuga, 55 Citighana, 
+37 
+89 Caitra, ,55 
+Chaya, 75 
+Cheda, 73 
+Tul,a, 60 
+Taulya, 63 
+Tribhuja, 30 
+Dik, 80 
+Duf}tjama, 53-54 
+Drk, 75 
+Drkkarman, 77 
+DrkkfJepajya, 7 4, 76 
+DrkkJJepamar:uJ,ala, 70 
+Drggatijya, 75, 76 
+Drgjya, 75 
+Drgbheda, 76 
+Drnma-,;iJ,ala, 70 
+Dvadasasra, 21 
+Dvicchedagra, 43 
+Downloaded from https://www.holybooks.com90 ARYABHAT!YA 
+Na<J,r, 51 
+Nr, measurement of, 16 number 
+in a yojana, 15 
+Parikti, 22 
+ParibhiifJa, 8 
+Purva, 24, 26 
+Purvapakt;a, 65, 67 
+Pratima1,.irJala, 57 Pratiloma, 
+58 
+Pra:,:w, 13 
+number in a vina<J,ika, 51 
+Bham, 14 
+Bhuja, 31-33 
+M adhyajya, 7 4 
+M adhyahnat krama, 80 
+Manda, 60, 61 
+MandakarrJ,a, 61 
+M andagati, 59 
+M andaphala, 59-60 
+Mando,cca, 52, 58, 60 
+Mithyajfw:na, 9, 14, 65, 67 
+Mina, 63 
+Met;a, 9, 11, 16, 60, 63, 71 
+-¥-aya,°'neginning of, 9, 55 
+at midnight, 11 n. 
+at sunrise, 9, 11 n. division 
+into four equal parts, 
+12 
+measurement of, 53 names for 
+parts of, 53 number 
+in period of a Manu, 
+12 
+revolutions of Earth, Sun, Moon, 
+and planets in, 9 
+years of, equal revolutions of 
+Sun, 15 
+Yugapada, 12, 54 Yoga, 
+of Sun and Earth, 52, 81 
+Y ojana, measure of increase and decrease of Earth, 64 measurement of, 15 
+Yojanas, in circumferenc~ of sky, 
+13 
+in planet's -orbit, 13 
+of parallax, 76 
+same number traversed by 
+each planet in a day, 55 
+Rasi, 13 
+Varga, defined, 21 
+in square root, 22-24 
+letters and places, 2-7 
+Valana, 80-81 
+VinarJika, 51 
+V imardardha, 79 
+Viloma, 65 
+Vyatipata, 51 
+Vyastam, 60 
+Sanku, 71, 72, 73 
+Sankutala, 73 
+Sankvagra, 73 
+Sara, 33 
+Sighrakar?J,a, 61 
+Sighragati, 58 
+Sighraphala, 59-60 
+Sighrocca, 52, 58 
+Satya devata, 1 
+Samadalakofi, 26 
+Sampatasara, 34-35 
+SW'}ama, 53-54 
+Sthanantare, 22 
+Sthityardha, 79 Sphu~a, 
+60, 61 
+Sphuiamadhya, 60 
+Svayambhu, 1, 81 
+Svavrtta, 31 
+Hasta, 16 
+[PRINTED] IN U·S·k 
+Downloaded from https://www.holybooks.comDownloaded from https://www.holybooks.comDownloaded from https://www.holybooks.comDownloaded from https://www.holybooks.com
